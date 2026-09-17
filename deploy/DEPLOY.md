@@ -15,14 +15,21 @@ process on loopback; the Node process checks the bearer token.
     # code (read-only to the service)
     sudo mkdir -p /var/www/corpus-lens-mcp
     # on the build machine:  npm ci && npm run build
-    # then copy  package.json package-lock.json dist/  to the server and:
+    # then copy ALL THREE of  package.json  package-lock.json  dist/  to the server
+    # (npm ci installs nothing without the lockfile) and:
     cd /var/www/corpus-lens-mcp && sudo npm ci --omit=dev
     sudo chown -R root:root /var/www/corpus-lens-mcp
+    sudo chmod -R a+rX /var/www/corpus-lens-mcp      # root's umask may have made node_modules private
+    sudo -u corpus-lens test -r node_modules/@modelcontextprotocol/sdk/package.json && echo "code readable"
 
     # data — StateDirectory creates /var/lib/corpus-lens on first start; make it now to load the bundle
     sudo install -d -o corpus-lens -g corpus-lens -m 750 /var/lib/corpus-lens
     sudo unzip corpus-lens-bundle-*.zip -d /var/lib/corpus-lens/bundle     # needs cache/ themes/ MANIFEST.json
+    # AFTER unzipping — the bundle's files are mode 600 and unzip keeps that, so as
+    # extracted they are readable by root alone:
     sudo chown -R corpus-lens:corpus-lens /var/lib/corpus-lens
+    sudo chmod -R u+rX /var/lib/corpus-lens
+    sudo -u corpus-lens test -r /var/lib/corpus-lens/bundle/MANIFEST.json && echo "bundle readable"
 
     # secrets
     sudo install -d -m 700 /etc/corpus-lens
@@ -67,7 +74,7 @@ Add `deploy/apache-corpus-lens.conf` to the TLS vhost, then:
 | Task | How |
 |---|---|
 | Add / revoke a person | edit `CORPUS_API_TOKENS` in `/etc/corpus-lens/env`, `sudo systemctl restart corpus-lens-mcp` |
-| New corpus bundle | stop the service, replace `/var/lib/corpus-lens/bundle`, chown, start — startup verifies MANIFEST.json and refuses a mismatch |
+| New corpus bundle | stop the service, replace `/var/lib/corpus-lens/bundle`, `chown -R corpus-lens:` + `chmod -R u+rX` it, start — startup verifies MANIFEST.json and refuses a mismatch |
 | New code | copy `dist/` + lockfile, `npm ci --omit=dev`, restart |
 | Who asked what | `/var/lib/corpus-lens/usage.jsonl` — one JSON line per query (caller, tool, tokens, cost, cached) |
 | Failed logins | `journalctl -u corpus-lens-mcp | grep 401` |

@@ -134,11 +134,23 @@ const BundleManifestSchema = z.object({ files: z.record(z.string(), z.string()) 
  * checked — the Python sources in the bundle are not this server's concern.
  */
 export async function verifyBundle(bundleDir: string): Promise<string[]> {
-    const m = BundleManifestSchema.parse(JSON.parse(await readFile(join(bundleDir, "MANIFEST.json"), "utf8")));
+    const bad = (path: string, e: unknown) =>
+        new LensError("INDEX_INVALID", `cannot verify the bundle — ${path} is unreadable (${(e as NodeJS.ErrnoException).code ?? (e as Error).message}); check that the service account owns the bundle directory`);
+    const manifestPath = join(bundleDir, "MANIFEST.json");
+    let text: string;
+    try {
+        text = await readFile(manifestPath, "utf8");
+    } catch (e) {
+        throw bad(manifestPath, e);
+    }
+    const m = BundleManifestSchema.parse(JSON.parse(text));
     const mismatched: string[] = [];
     for (const [member, expected] of Object.entries(m.files)) {
         if (!member.startsWith("cache/") && !member.startsWith("themes/")) continue;
-        const actual = await sha256File(join(bundleDir, member));
+        const path = join(bundleDir, member);
+        const actual = await sha256File(path).catch((e) => {
+            throw bad(path, e);
+        });
         if (actual !== expected) mismatched.push(member);
     }
     return mismatched;

@@ -16,8 +16,10 @@ const MAGIC = Buffer.from([0x93, 0x4e, 0x55, 0x4d, 0x50, 0x59]); // \x93NUMPY
  * Anything else is refused — the pipeline writes exactly this shape.
  */
 export async function readNpyFloat32Matrix(path: string): Promise<Matrix> {
-    const buf = await readFile(path);
     const bad = (why: string) => new LensError("INDEX_INVALID", `${path}: ${why}`);
+    const buf = await readFile(path).catch((e) => {
+        throw bad(`cannot read the vectors (${(e as NodeJS.ErrnoException).code ?? (e as Error).message})`);
+    });
 
     if (buf.length < 12 || !buf.subarray(0, 6).equals(MAGIC)) throw bad("not a .npy file");
     const major = buf[6]!;
