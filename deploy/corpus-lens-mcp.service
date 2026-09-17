@@ -32,7 +32,7 @@ EnvironmentFile=/etc/corpus-lens/env
 Environment=NODE_ENV=production
 Environment=CORPUS_TRANSPORT=http
 Environment=CORPUS_HOST=127.0.0.1
-Environment=CORPUS_PORT=8765
+Environment=CORPUS_PORT=4481
 Environment=CORPUS_CACHE_DIR=/var/lib/corpus-lens/bundle/cache
 Environment="CORPUS_THEMES=/var/lib/corpus-lens/bundle/themes/Theme Descriptions.txt"
 Environment=CORPUS_VERIFY_BUNDLE=/var/lib/corpus-lens/bundle
