@@ -1,0 +1,25 @@
+════════════════════════════════════════════════════════════
+SOURCE: KJV public-domain text (Project Gutenberg #10) — PHINNEY-
+  PROXY per the ratified M-8 rule; upgradeable verbatim to a
+  digitized 1828 Phinney edition if one is obtained.
+BOOK: Psalms Chapter 120
+TRANSLATION SEGMENT: Old Testament resumed, 20 Jul 1832 – 2 Jul 1833
+DATED: 1833-07-02 (segment END date — the chapter existed for Joseph by
+  this date; he read but did not revise it in the New Translation)
+GENERATED: 2026-09-08 ERIC-AUTHORIZED MIGRATION (migrate_phinney_proxies.py)
+════════════════════════════════════════════════════════════
+
+1
+In my distress I cried unto the LORD, and he heard me.
+2
+Deliver my soul, O LORD, from lying lips, and from a deceitful tongue.
+3
+What shall be given unto thee? or what shall be done unto thee, thou false tongue?
+4
+Sharp arrows of the mighty, with coals of juniper.
+5
+Woe is me, that I sojourn in Mesech, that I dwell in the tents of Kedar!
+6
+My soul hath long dwelt with him that hateth peace.
+7
+I am for peace: but when I speak, they are for war.

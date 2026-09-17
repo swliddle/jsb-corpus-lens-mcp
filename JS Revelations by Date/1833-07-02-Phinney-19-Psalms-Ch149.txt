@@ -1,0 +1,29 @@
+════════════════════════════════════════════════════════════
+SOURCE: KJV public-domain text (Project Gutenberg #10) — PHINNEY-
+  PROXY per the ratified M-8 rule; upgradeable verbatim to a
+  digitized 1828 Phinney edition if one is obtained.
+BOOK: Psalms Chapter 149
+TRANSLATION SEGMENT: Old Testament resumed, 20 Jul 1832 – 2 Jul 1833
+DATED: 1833-07-02 (segment END date — the chapter existed for Joseph by
+  this date; he read but did not revise it in the New Translation)
+GENERATED: 2026-09-08 ERIC-AUTHORIZED MIGRATION (migrate_phinney_proxies.py)
+════════════════════════════════════════════════════════════
+
+1
+Praise ye the LORD. Sing unto the LORD a new song, and his praise in the congregation of saints.
+2
+Let Israel rejoice in him that made him: let the children of Zion be joyful in their King.
+3
+Let them praise his name in the dance: let them sing praises unto him with the timbrel and harp.
+4
+For the LORD taketh pleasure in his people: he will beautify the meek with salvation.
+5
+Let the saints be joyful in glory: let them sing aloud upon their beds.
+6
+Let the high praises of God be in their mouth, and a two-edged sword in their hand;
+7
+To execute vengeance upon the heathen, and punishments upon the people;
+8
+To bind their kings with chains, and their nobles with fetters of iron;
+9
+To execute upon them the judgment written: this honour have all his saints. Praise ye the LORD.

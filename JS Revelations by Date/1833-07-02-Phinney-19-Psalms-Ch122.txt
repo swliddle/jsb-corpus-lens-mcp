@@ -1,0 +1,29 @@
+════════════════════════════════════════════════════════════
+SOURCE: KJV public-domain text (Project Gutenberg #10) — PHINNEY-
+  PROXY per the ratified M-8 rule; upgradeable verbatim to a
+  digitized 1828 Phinney edition if one is obtained.
+BOOK: Psalms Chapter 122
+TRANSLATION SEGMENT: Old Testament resumed, 20 Jul 1832 – 2 Jul 1833
+DATED: 1833-07-02 (segment END date — the chapter existed for Joseph by
+  this date; he read but did not revise it in the New Translation)
+GENERATED: 2026-09-08 ERIC-AUTHORIZED MIGRATION (migrate_phinney_proxies.py)
+════════════════════════════════════════════════════════════
+
+1
+I was glad when they said unto me, Let us go into the house of the LORD.
+2
+Our feet shall stand within thy gates, O Jerusalem.
+3
+Jerusalem is builded as a city that is compact together:
+4
+Whither the tribes go up, the tribes of the LORD, unto the testimony of Israel, to give thanks unto the name of the LORD.
+5
+For there are set thrones of judgment, the thrones of the house of David.
+6
+Pray for the peace of Jerusalem: they shall prosper that love thee.
+7
+Peace be within thy walls, and prosperity within thy palaces.
+8
+For my brethren and companions’ sakes, I will now say, Peace be within thee.
+9
+Because of the house of the LORD our God I will seek thy good.

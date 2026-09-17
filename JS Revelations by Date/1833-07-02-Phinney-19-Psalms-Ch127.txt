@@ -1,0 +1,21 @@
+════════════════════════════════════════════════════════════
+SOURCE: KJV public-domain text (Project Gutenberg #10) — PHINNEY-
+  PROXY per the ratified M-8 rule; upgradeable verbatim to a
+  digitized 1828 Phinney edition if one is obtained.
+BOOK: Psalms Chapter 127
+TRANSLATION SEGMENT: Old Testament resumed, 20 Jul 1832 – 2 Jul 1833
+DATED: 1833-07-02 (segment END date — the chapter existed for Joseph by
+  this date; he read but did not revise it in the New Translation)
+GENERATED: 2026-09-08 ERIC-AUTHORIZED MIGRATION (migrate_phinney_proxies.py)
+════════════════════════════════════════════════════════════
+
+1
+Except the LORD build the house, they labour in vain that build it: except the LORD keep the city, the watchman waketh but in vain.
+2
+It is vain for you to rise up early, to sit up late, to eat the bread of sorrows: for so he giveth his beloved sleep.
+3
+Lo, children are an heritage of the LORD: and the fruit of the womb is his reward.
+4
+As arrows are in the hand of a mighty man; so are children of the youth.
+5
+Happy is the man that hath his quiver full of them: they shall not be ashamed, but they shall speak with the enemies in the gate.

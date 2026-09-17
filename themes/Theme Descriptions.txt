@@ -1,0 +1,101 @@
+Theme Descriptions
+
+
+
+
+The following is a brief description of each of the doctrinal themes that are being explored as part of the research and writing associated with Joseph Smith’s biography that is entitled Joseph the Prophet. These themes guide the study of Joseph Smith’s writings and teachings in preparation for writing his biography.
+
+Each theme carries a short Boundary block (Central subject / Owns / References) that assigns ownership of doctrinal claims across themes. The rule is subject-vs-object: a claim is OWNED by the theme for which its central subject is an attribute, and only REFERENCED by the theme for which that subject is an instrument acted upon. File each claim once, under its owning theme, and cross-reference — do not duplicate — under the others.
+
+1. The Godhead — This theme focuses on the origin, membership, role, characteristics, divine capabilities, works, expectations, and promises of the Godhead collectively, and individually. The Godhead is composed of Heavenly Parents (God the Father and our Heavenly Mother), Jesus Christ (encompassing roles such as Redeemer, Healer, and Liberator), and the Holy Ghost (whose functions include Testator, Purifier, and Comforter). It also includes the role of law as to how the Godhead functions in terms of providing law that governs the physical and spiritual nature of the universe and the life God lives.
+
+   Definition: The divine persons themselves — Heavenly Parents (God the Father and our Heavenly Mother), Jesus Christ, and the Holy Ghost — their identity, nature, completeness, attributes, capabilities, works, and relations, and the law by which God lives and governs the universe.
+
+   Boundary:
+   - Central subject: the divine persons themselves — Heavenly Parents (God the Father and our Heavenly Mother), Jesus Christ, and the Holy Ghost — their identity, nature, completeness, attributes, works, and relations.
+   - Owns: the membership and nature of the Godhead, foremost the Heavenly Parents and their completeness; divine characteristics including law-as-attribute (God is lawful/just); capabilities (to forgive, to reveal); the Holy Ghost's identity; God as covenant-keeper; God's presiding and governance.
+   - Route elsewhere (NOT owned here): Christ's role executing salvation → The Plan of Salvation; law-as-instrument of the plan → The Plan of Salvation; authority delegated to mortals → Priesthood, Keys, and Priestliness. (The angelic host / heavenly assembly are members of the human family → Mankind; the Godhead comprises only the divine persons.)
+   - WORKED LINE (who vs what): "Christ IS the Only Begotten / the Lord of glory" → owned here (identity); "Christ was crucified for the world / atones / redeems" → The Plan of Salvation (salvific action). Identity/attribute stays; salvific action routes to the Plan.
+
+2. Priesthood, Keys, and Priestliness — This theme deals with the nature of God's authority and keys delegated to mankind — their origin, purpose, function, availability, and disposition in the eternities. It also examines priestliness: the divine character, attributes, and sanctified nature that constitute what it means to be priestly — the becoming that gives priesthood authority its ultimate purpose and power. Because "our theology begins with heavenly parents" and "our highest aspiration is to be like them" (Dallin H. Oaks, "Apostasy and Restoration," Ensign, May 1995, 84), priesthood is understood not only as delegated authority but as a trajectory toward divine identity and relationships — the process by which covenant men and women develop the character of heavenly parents, for whom priestly power and priestly nature are one, but also a completeness possessed by our Heavenly Parents. This completeness is referenced through various scriptures such as is taught in D&C 131:1-4; 1 Corinthians 11:11; Genesis 2:24; Moses 3:24; Matthew 19:4–6, all pointing to the completeness referenced in Matthew 5:48. Particular attention is given to the restoration of priesthood authority and keys through Joseph Smith, and to how priestliness unfolds through covenants, ordinances, and sanctification as the inward counterpart of outward authority.
+
+   Definition: God's authority and keys delegated to mortals (origin, purpose, function, availability, eternal disposition, and their restoration through Joseph Smith), and priestliness — the sanctified divine character and becoming that is required to act in God's name and hold God's power (the inward counterpart of outward authority).
+
+   Boundary:
+   - Central subject: God's authority and keys delegated to mortals, and priestliness — the sanctified divine character (the "becoming" toward the identity and relationships of Heavenly Parents).
+   - Owns: nature/origin/purpose/availability/disposition of authority and keys; the restoration of authority and keys through Joseph Smith; priestliness as divine character and trajectory toward divine identity and relationships; the claim that the power of godliness is manifest through ordinances and requires priesthood authority (D&C 84:20–21 — here the subject is the power/authority; the ordinance is the channel).
+   - Route elsewhere (NOT owned here): the ordinance/covenant itself (its nature, form, origin, purpose) → Covenants and Ordinances; the completeness and pattern of Heavenly Parents that priestliness moves toward → The Godhead; the family as the order of the priesthood → Marriage and Family.
+
+3. Marriage and Family — This theme focuses on the divine origin, nature, and eternal potential of the marriage covenant and the family. It addresses the family as the fundamental order of the priesthood and the central unit of the eternities — the relationships of spouses and of parents and children, and the modeling of earthly families after the pattern of Heavenly Parents. The sealing of the family through the New and Everlasting Covenant is the culmination this theme traces toward; the earliest teachings on the family order belong here as the seed of that doctrine, not excluded for arriving before the sealing was revealed.
+
+   Definition: The marriage covenant and the family — of divine origin and eternal potential — the family order (the relationships of spouses, and of parents and children) as the fundamental order of the priesthood and the central unit of the eternities, patterned after Heavenly Parents. The sealing of the family through the New and Everlasting Covenant is the culmination this theme traces toward, NOT a precondition for membership: an early teaching on the family order belongs here as the seed of that doctrine.
+
+   Boundary:
+   - Central subject: the marriage covenant and the family order (the relationships of spouses, and of parents and children); the family as the fundamental order of the priesthood and central unit of the eternities.
+   - Owns: divine origin/nature/eternal potential of marriage and family; the family order itself and the distinct roles of spouses and of parents and children (including a parent's charge to nurture and teach children in righteousness, as a family-order datum); the modeling of earthly families on the pattern of Heavenly Parents; the sealing that eventually constitutes the eternal family — the culmination the theme traces toward.
+   - Route elsewhere (NOT owned here): the Father–Son relationship as divine persons → The Godhead (this theme owns the family order, not every divine parent-child datum — e.g., "Hear him" is a Godhead claim); the sealing authority and keys → Priesthood, Keys, and Priestliness; the marriage ordinance as such → Covenants and Ordinances; the intergenerational, relational gathering — turning the hearts of children to fathers, the gathering of a covenant people across generations → The Gathering (this theme owns the family unit itself, not the gathering of many families into a covenant people); a person's moral accountability for their own conduct, including as a parent → Agency and Accountability (this theme owns the family relationship, not the actor's accountability).
+
+4. Mankind — This theme focuses on the origin, nature, potential, and destiny of all beings in the universe who are not part of the Godhead, encompassing all who have lived, are living, or will live on earth — in any state, whether premortal spirits, mortals, or those who minister as angels (who, as taught in D&C 130:5, belong or have belonged to this earth) — and also includes Satan and those who followed him premortally. This theme includes the nature of mankind's relationship with the Godhead and the nature of mankind when they do not develop a relationship with God or rebel against God.
+
+   Definition: Created beings not part of the Godhead — this earth's human family in every state (premortal spirits, mortals, the translated, disembodied spirits, ministering angels), together with Satan and his followers — their origin, nature, potential, and destiny, including mankind's relationship or rebellion toward God.
+
+   Boundary:
+   - Central subject: created beings not part of the Godhead — this earth's human family in every state (premortal spirits, mortals, the translated, disembodied spirits, and resurrected beings who minister as angels), together with Satan and his followers.
+   - Owns: origin/nature/potential/destiny of mankind; the fallen / natural-man state; mankind's relationship-or-rebellion toward God as a fact about man's nature; the reality and nature of the adversary; the identity and nature of angels as members of the human family (e.g., the "many angels" of the First Vision).
+   - Route elsewhere (NOT owned here): the accountability/consequence mechanism for man's choices → Agency and Accountability; the redemptive remedy → The Plan of Salvation; forgiveness as God's capability → The Godhead; the gathered heavenly community, where a text teaches it → The Gathering.
+
+5. Agency and Accountability — This theme deals with the nature of agency for all beings premortally, mortally, and postmortally and the accompanying accountability and consequences for the use of agency. It also refers to God's attitudes and actions regarding mankind's agency.
+
+   Definition: The moral agent's capacity to choose (premortal, mortal, postmortal) and the accountability and consequences attaching to choice, together with God's attitudes and actions toward mankind's agency.
+
+   Boundary:
+   - Central subject: the moral agent's capacity to choose, and the accountability and consequences attaching to choice (premortal/mortal/postmortal); God's posture toward agency.
+   - Owns: the nature of agency; the accountability/consequence structure (proportional penalties, knowledge-scaled accountability, rewards); God's attitudes and actions toward agency (anger, delivering-up, mercy-as-response); divine prohibition/direction as agency-direction (e.g., "join none of them").
+   - Route elsewhere (NOT owned here): the being exercising agency (its nature/state) → Mankind; the law/commandments defining right choice → The Godhead (law-as-attribute) and The Plan of Salvation (law-as-instrument); the atonement that resolves accountability → The Plan of Salvation; forgiveness as God's capability → The Godhead.
+
+6. The Plan of Salvation — This theme deals with the plan of the Godhead for mankind — the premortal origin, purpose, nature, applicability, and eventual completion of the plan. It also includes the essential role of Christ in executing the plan and the role of law in the plan and the relationship of the heirs of salvation to Him.
+
+   Definition: The divine program of the Godhead for mankind's progression — its premortal origin, purpose, nature, applicability, and completion — with the atonement of Christ and law as its instruments, and the relationship of the heirs of salvation to Christ.
+
+   Boundary:
+   - Central subject: the plan itself — the divine program for mankind's progression (premortal origin through completion), with law and the atonement as its instruments.
+   - Owns: the plan's architecture (premortal origin, purpose, nature, applicability, completion); Christ's role executing the plan (the atonement-as-mechanism); law-as-instrument (applied to progression); the relationship of the heirs to Christ.
+   - Route elsewhere (NOT owned here): Christ's identity and attributes → The Godhead (this theme owns what Christ does in the plan; the Godhead owns who Christ is); law-as-attribute (God is lawful) → The Godhead; the specific covenant and ordinance instruments → Covenants and Ordinances; mankind's fallen state the plan remedies → Mankind.
+   - WORKED LINE (who vs what): a claim about who Christ IS (identity/attribute) → The Godhead; a claim about Christ's salvific ACTION (crucified for the world, atones, redeems) → owned here.
+
+7. Covenants and Ordinances — This theme deals with the nature of covenants and ordinances — their origin, purposes, first uses, loss and restoration, and eventual fulfillment — and how they function as invitations by which God's children may progress.
+
+   Definition: The covenant and ordinance instruments themselves — their nature, origin, purposes, first uses, loss and restoration, and fulfillment — the invitations by which God's children progress.
+
+   Boundary:
+   - Central subject: the covenant and ordinance instruments themselves — what they are, where they come from, what they do.
+   - Owns: nature/origin/purposes/first-uses/loss-and-restoration/fulfillment of covenants and ordinances; the salvific covenant the child enters with God (the instrument of the child's progression).
+   - Route elsewhere (NOT owned here): the plan these instruments serve (its architecture and telos) → The Plan of Salvation; the authority to administer them, and the power of godliness manifest through them → Priesthood, Keys, and Priestliness; God-as-covenant-maker (covenant-keeping as a divine characteristic) → The Godhead. (Covenant direction: this theme owns the child → God covenant; the Godhead owns the God → child covenant-making.)
+
+8. The Gathering — This theme deals with the nature and purpose of the various forms of gathering sponsored by God in the past, present, and future, and includes the gathering of families, covenant communities, and Israel as promised anciently.
+
+   Definition: The gathering of mortals into covenant relationship and community — families, covenant communities, and Israel — sponsored by God across past, present, and future.
+
+   Boundary:
+   - Central subject: the gathering of mortals into covenant relationship and community — families, covenant communities, and Israel — across past, present, and future.
+   - Owns: the forms and purposes of gathering covenant people; the gathering of Israel; covenant communities; the intergenerational, relational gathering (turning the hearts of children to fathers).
+   - Route elsewhere (NOT owned here): the divine council → The Godhead's presiding, and the beings themselves → Mankind (the angelic host are the human family; the bare "many angels" of the First Vision is not a gathering-of-mortals datum — own the gathered heavenly community only where a text teaches the gathering of the redeemed); the family as a gathered unit → Marriage and Family; separation from the world / "join none" as an accountability directive → Agency and Accountability.
+
+9. Prophethood — This theme focuses on the process by which prophets are prepared, called, and function to become instruments in the hands of the Godhead. It also includes the nature of the revelatory process through prophets. Lastly, it includes the development of principles of divine stewardship and governance for God's prophets and messengers.
+
+   Definition: The prophet and the prophetic office — how prophets are prepared, called, and function as instruments of the Godhead — including the principles of divine stewardship and custodianship of sacred records and artifacts (the revelatory mechanism itself → Revelation).
+
+   Boundary:
+   - Central subject: the prophet and the revelatory process — how prophets are prepared, called, and function; divine stewardship and governance of prophets.
+   - Owns: preparation/calling/functioning of prophets; revelation in the prophetic office — its stewardship and governance for the Church (the modes of revelation themselves → Revelation); principles of divine stewardship and governance for prophets; the sacred record as artifact and stewardship — its making, keeping, custody, transmission between stewards, and the instruments preserved with it.
+   - Route elsewhere (NOT owned here): the divine persons revealed in a theophany → The Godhead; the Spirit's identity → The Godhead, and the Spirit as a mode of revelation → Revelation; the general accountability structure of a calling → Agency and Accountability; the CONTENT of a record is routed by its own central subject and never comes here merely for being written in a record (a record's teaching about God → The Godhead; about man → Mankind) — this theme owns the record AS record, its keeping and transmission, not everything inscribed in one.
+
+10. Revelation — This theme deals with the doctrine, principles, and practices of seeking for and receiving revelation from God — by any of His children — through whatever means God chooses (vision, visitation, the whisperings of the Spirit, hearing the voice of God, dreams, impressions to the mind and heart). It includes the invitation and obligation to seek, the conditions on which revelation is granted (asking, faith without wavering, obedience), the process of recognizing, testing, and acting on what is received, and the continuing nature of revelation to individuals, families, and the Church.
+
+   Definition: The revelatory process between God and His children — seeking, receiving, recognizing, and acting on revelation, the means God employs to give it, and the conditions on which it is granted.
+
+   Boundary:
+   - Central subject: the revelatory process itself — any child of God seeking, and God giving, through means of God's choosing.
+   - Owns: the invitation and obligation to seek revelation; the conditions of receiving (asking, faith, obedience); the means and modes God employs (vision, visitation, the Spirit's whisperings, the voice of God, dreams, impressions); recognizing and testing revelation; the obligation to act on revelation received; the continuing and personal nature of revelation.
+   - Route elsewhere (NOT owned here): God's character and capability as a revealer → The Godhead; the Spirit's identity → The Godhead; the prophetic office, its stewardship and governance, and revelation AS the prophet's function for the Church → Prophethood; the CONTENT revealed routes by its own central subject (a revelation about the plan → The Plan of Salvation).
+   - WORKED LINE (process vs giver): "a person is invited to ask of God for wisdom / must ask in faith" → owned here (the seeking process); "God giveth wisdom to all men liberally / upbraideth not" → The Godhead (divine character); "Joseph saw two Personages" → the mode of the theophany here, the Persons revealed → The Godhead.

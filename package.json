@@ -1,0 +1,34 @@
+{
+    "name": "corpus-lens-mcp",
+    "version": "0.1.0",
+    "description": "Read-only MCP server over the Joseph the Prophet corpus index",
+    "main": "dist/main.js",
+    "scripts": {
+        "build": "tsc",
+        "check": "tsc --noEmit -p tsconfig.json",
+        "dev": "tsx --env-file-if-exists=.env src/main.ts",
+        "start": "node --env-file-if-exists=.env dist/main.js",
+        "test": "vitest run",
+        "test:watch": "vitest"
+    },
+    "license": "UNLICENSED",
+    "type": "module",
+    "dependencies": {
+        "@google/genai": "^2.23.0",
+        "@modelcontextprotocol/sdk": "^1.30.0",
+        "zod": "^4.6.5"
+    },
+    "devDependencies": {
+        "@types/node": "^26.6.1",
+        "tsx": "^4.23.13",
+        "typescript": "^7.0.2",
+        "vitest": "^4.1.11"
+    },
+    "private": true,
+    "bin": {
+        "corpus-lens-mcp": "dist/main.js"
+    },
+    "engines": {
+        "node": ">=22"
+    }
+}

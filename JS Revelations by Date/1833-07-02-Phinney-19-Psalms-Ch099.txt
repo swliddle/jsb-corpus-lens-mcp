@@ -1,0 +1,29 @@
+════════════════════════════════════════════════════════════
+SOURCE: KJV public-domain text (Project Gutenberg #10) — PHINNEY-
+  PROXY per the ratified M-8 rule; upgradeable verbatim to a
+  digitized 1828 Phinney edition if one is obtained.
+BOOK: Psalms Chapter 99
+TRANSLATION SEGMENT: Old Testament resumed, 20 Jul 1832 – 2 Jul 1833
+DATED: 1833-07-02 (segment END date — the chapter existed for Joseph by
+  this date; he read but did not revise it in the New Translation)
+GENERATED: 2026-09-08 ERIC-AUTHORIZED MIGRATION (migrate_phinney_proxies.py)
+════════════════════════════════════════════════════════════
+
+1
+The LORD reigneth; let the people tremble: he sitteth between the cherubims; let the earth be moved.
+2
+The LORD is great in Zion; and he is high above all the people.
+3
+Let them praise thy great and terrible name; for it is holy.
+4
+The king’s strength also loveth judgment; thou dost establish equity, thou executest judgment and righteousness in Jacob.
+5
+Exalt ye the LORD our God, and worship at his footstool; for he is holy.
+6
+Moses and Aaron among his priests, and Samuel among them that call upon his name; they called upon the LORD, and he answered them.
+7
+He spake unto them in the cloudy pillar: they kept his testimonies, and the ordinance that he gave them.
+8
+Thou answeredst them, O LORD our God: thou wast a God that forgavest them, though thou tookest vengeance of their inventions.
+9
+Exalt the LORD our God, and worship at his holy hill; for the LORD our God is holy.

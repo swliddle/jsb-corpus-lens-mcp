@@ -1,0 +1,29 @@
+════════════════════════════════════════════════════════════
+SOURCE: KJV public-domain text (Project Gutenberg #10) — PHINNEY-
+  PROXY per the ratified M-8 rule; upgradeable verbatim to a
+  digitized 1828 Phinney edition if one is obtained.
+BOOK: Psalms Chapter 8
+TRANSLATION SEGMENT: Old Testament resumed, 20 Jul 1832 – 2 Jul 1833
+DATED: 1833-07-02 (segment END date — the chapter existed for Joseph by
+  this date; he read but did not revise it in the New Translation)
+GENERATED: 2026-09-08 ERIC-AUTHORIZED MIGRATION (migrate_phinney_proxies.py)
+════════════════════════════════════════════════════════════
+
+1
+O LORD, our Lord, how excellent is thy name in all the earth! who hast set thy glory above the heavens.
+2
+Out of the mouth of babes and sucklings hast thou ordained strength because of thine enemies, that thou mightest still the enemy and the avenger.
+3
+When I consider thy heavens, the work of thy fingers, the moon and the stars, which thou hast ordained;
+4
+What is man, that thou art mindful of him? and the son of man, that thou visitest him?
+5
+For thou hast made him a little lower than the angels, and hast crowned him with glory and honour.
+6
+Thou madest him to have dominion over the works of thy hands; thou hast put all things under his feet:
+7
+All sheep and oxen, yea, and the beasts of the field;
+8
+The fowl of the air, and the fish of the sea, and whatsoever passeth through the paths of the seas.
+9
+O LORD our Lord, how excellent is thy name in all the earth!

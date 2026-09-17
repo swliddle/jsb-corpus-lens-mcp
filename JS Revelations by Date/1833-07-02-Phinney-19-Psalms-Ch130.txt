@@ -1,0 +1,27 @@
+════════════════════════════════════════════════════════════
+SOURCE: KJV public-domain text (Project Gutenberg #10) — PHINNEY-
+  PROXY per the ratified M-8 rule; upgradeable verbatim to a
+  digitized 1828 Phinney edition if one is obtained.
+BOOK: Psalms Chapter 130
+TRANSLATION SEGMENT: Old Testament resumed, 20 Jul 1832 – 2 Jul 1833
+DATED: 1833-07-02 (segment END date — the chapter existed for Joseph by
+  this date; he read but did not revise it in the New Translation)
+GENERATED: 2026-09-08 ERIC-AUTHORIZED MIGRATION (migrate_phinney_proxies.py)
+════════════════════════════════════════════════════════════
+
+1
+Out of the depths have I cried unto thee, O LORD.
+2
+Lord, hear my voice: let thine ears be attentive to the voice of my supplications.
+3
+If thou, LORD, shouldest mark iniquities, O Lord, who shall stand?
+4
+But there is forgiveness with thee, that thou mayest be feared.
+5
+I wait for the LORD, my soul doth wait, and in his word do I hope.
+6
+My soul waiteth for the Lord more than they that watch for the morning: I say, more than they that watch for the morning.
+7
+Let Israel hope in the LORD: for with the LORD there is mercy, and with him is plenteous redemption.
+8
+And he shall redeem Israel from all his iniquities.

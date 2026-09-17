@@ -1,0 +1,663 @@
+════════════════════════════════════════════════════════════
+TEXTUAL CHANGES — D&C Section 20, Evening and Morning Star (1832)
+════════════════════════════════════════════════════════════
+
+▶ Changes from Revelation Book 1 (ca-1830-04) → Evening and Morning Star (1832):
+
+  1. PHRASE ADDITION (verse 4):
+     EARLIER: "and this according to the grace of our Lord & saveiour Jesus Christ"
+     LATER:   "and this according to the grace of God the Father, and, our Lord and Savior Jesus Christ"
+     → This addition explicitly includes "God the Father" as a source of grace, altering the theological statement.
+
+  2. WORD CHANGE (verse 5):
+     EARLIER: "God ministered unto him by an Holy Angel"
+     LATER:   "God visited him by an holy angel"
+     → The change from "ministered" (implying aid or service) to "visited" (implying a direct encounter) alters the description of the divine interaction.
+
+  3. PHRASE DELETION (verse 9):
+     EARLIER: "God doth Minister inspire men & call them to his Holy work"
+     LATER:   "God doth inspire men and call them to his holy work"
+     → The removal of the word "Minister" clarifies the sentence by eliminating a redundant verb, focusing God's action on inspiring and calling.
+
+  4. PHRASE ADDITION (verse 17):
+     EARLIER: "[no similar text]"
+     LATER:   "and that he is all power, and all wisdom, and all understanding,"
+     → This new phrase adds a significant doctrinal description of God's attributes that was not present in the earlier version.
+
+  5. WORD CHANGE (verse 18):
+     EARLIER: "gave unto the Children of men a commandment"
+     LATER:   "gave unto the children of men commandments"
+     → Changing the singular "commandment" to the plural "commandments" broadens the scope from a single principle to a set of laws given by God.
+
+  6. WORD CHANGE (verse 24):
+     EARLIER: "were Baptized in his Holy name"
+     LATER:   "were baptized into his holy name"
+     → The change from "in" to "into" adds a sense of entering a new state or covenant relationship, a more dynamic action than the static "in".
+
+  7. WORD CHANGE (verse 25):
+     EARLIER: "which truly testify of him in all things"
+     LATER:   "which truly testified of him in all things"
+     → The change from present tense "testify" to past tense "testified" alters the timeframe of the holy prophets' witness concerning Christ.
+
+  8. WORD CHANGE (verse 33):
+     EARLIER: "let the Church take heed & pray always lest ye fall into temptation"
+     LATER:   "let the Church take heed and pray always, lest they enter into temptations"
+     → The text changes from a direct address ("ye") to a third-person reference ("they") and from an outcome ("fall") to an action ("enter").
+
+  9. PHRASE ADDITION (verse 35):
+     EARLIER: "agreeable to the Revelations of John"
+     LATER:   "agreeable to the Revelations of Jesus Christ which was signified by his angel unto John"
+     → This addition clarifies that the ultimate source of the revelation is Jesus Christ, with an angel and John acting as intermediaries.
+
+  10. PHRASE DELETION (verse 35):
+     EARLIER: "by the ministering of the Holy Ghost Angels"
+     LATER:   "by the ministering of angels"
+     → The removal of "the Holy Ghost" separates the ministering of angels from the ministering of the Holy Ghost, which were conflated in the earlier text.
+
+  11. PHRASE DELETION (verse 46):
+     EARLIER: "ordain other Priests Teachers & Deacons"
+     LATER:   "ordain priests, teachers, and deacons"
+     → Removing the word "other" changes the duty from ordaining additional officers to the general duty of ordaining officers.
+
+  12. WORD CHANGE (verse 56):
+     EARLIER: "evry member does his duty"
+     LATER:   "all the members their duty"
+     → This change shifts the focus from the responsibility of each individual member ("evry member his duty") to a collective church responsibility ("all the members their duty").
+
+  13. WORD CHANGE (verse 68):
+     EARLIER: "so that all things may be done in order"
+     LATER:   "so that all things shall be done in order"
+     → The change from "may" (which implies permission or possibility) to "shall" (which implies a command or requirement) makes the instruction more forceful.
+
+  14. PHRASE DELETION (verse 73):
+     EARLIER: "I baptize thee in the name of Jesus Christ the Father & of the Son & of the Holy Ghost amen"
+     LATER:   "I baptize you in the name of the Father, and of the Son, and of the Holy Ghost. Amen."
+     → The name "Jesus Christ" is removed from the baptismal prayer, a significant alteration to the ordinance's wording.
+
+  15. PHRASE ADDITION (verse 74):
+     EARLIER: "[no similar text]"
+     LATER:   "And the manner of administering the sacrament are to be done as is written in the Book of Morman."
+     → This new sentence is added, directing the church to the Book of Mormon for the procedure of the sacrament, an instruction not present before.
+
+  16. WORD CHANGE (verse 79):
+     EARLIER: "that they do it in Rememberance of the blood of thy Son"
+     LATER:   "that they may do it in Rememberance of the blood of thy Son"
+     → Changing "do" to "may do" alters the phrasing from a statement of fact about the action to a statement of purpose or intent for the action.
+
+  17. WORD CHANGE (verse 84):
+     EARLIER: "send one or more of their Teachers to attend the several conferences"
+     LATER:   "send one of their priests to attend the several conferences"
+     → This change alters which priesthood office is required to represent a congregation at conference, from "Teachers" to "priests," and removes the "or more" option.
+
+  18. WORD CHANGE (verse 84):
+     EARLIER: "or send by the hand of some Priest"
+     LATER:   "or send by the hand of some elder"
+     → The priesthood office authorized to carry the list of new members to the conference is changed from a Priest to an Elder.
+
+  19. PHRASE DELETION (verse 86):
+     EARLIER: "a regular member & in good standing"
+     LATER:   "a member and in good standing"
+     → The removal of the word "regular" simplifies the description of a member's status on a letter of recommendation.
+
+════════════════════════════════════════════════════════════
+[Original text follows below]
+════════════════════════════════════════════════════════════
+
+<June 1832 Issue>
+
+
+
+
+Articles 
+and Covenants, 
+
+
+
+
+
+circa April 1830 [D&C 20]
+Church Articles & Covenants
+Received in Fayette Seneca County New York April 10th. 1830
+Given to Joseph the seer by the gift & power of God &c soon after the Ch◊r
+<Revelations.
+THE ARTICLES AND COVENANTS OF THE CHURCH OF CHRIST.>
+
+T<HE>he rise of the Church of Christ in these last days<,> being 
+one T<t>housand 
+eight H<h>undred &<and > thirty 
+years since the coming of our Lord and 
+Savior Jesus Christ<,> in the flesh<;> 
+it being 
+regularly organized and 
+established agreeable to the L<l>aws of our country<,> by the will &<and> commandments of God in the 
+fourth 
+month 
+and on the 
+S<s>ixth day of 
+the 
+M<m>onth, which is called April[.]<:>
+
+<W>which C<c>ommandments 
+were given to Joseph<,> 
+the seer
+who was called of God and 
+ordained an Apostle of 
+Jesus Christ<,> 
+
+an Elder of the<this> Church<;>
+
+and also to 
+Oliver <[>Cowdery<]>, 
+who was also called of God an Apostle of Jesus Christ, an 
+
+<E>elder of the<is> <C>church, and ordained under his hand,<;>
+
+and this 
+according to the grace of 
+God the Father, and, 
+our Lord 
+<and Savior> 
+Jesus Christ to whom be all 
+glory both now 
+and forever<.>— <A>amen.
+
+For<,> after that it truly was manifested unto this first e<E>lder<,> that he had received a remission of his sins, he was entangled again in the vanities of the world,
+
+but after truly repenting ,
+
+
+
+God <ministered> visited <unto> him by an 
+holy 
+angel, 
+whose countenance was as lightning, and whose 
+garments were pure and white above all whiteness,
+
+and gave 
+unto him commandments which inspired 
+him 
+from on high,
+
+and gave unto 
+him power, 
+
+by the means of which was<ere> before prepared<,> that he should translate a 
+<B>book,
+
+which 
+<B>book 
+contained a 
+record of a fallen people, 
+and also the fulness of the <G>gospel of Jesus Christ to the Gentiles<;> 
+and also to the Jews,
+
+proving unto them<,> 
+that the holy Scriptures 
+be<are> true,<;> and also, that 
+God doth 
+inspire men and call 
+them to his holy work<,> in these last days, 
+
+
+as well as in days of 
+old,
+
+that he might be 
+the 
+same God 
+forever—<.> 
+
+
+<A>amen.
+
+Which Book, 
+<was> given by inspiration, <and> is called <T>the Book of Mormon, and is 
+confirmed to others by the ministering of angels, 
+and declared 
+unto the world 
+by them:
+
+Wherefore, 
+having so great witnesses, by 
+them shall the world be 
+judged, even 
+as many as shall hereafter receive 
+
+
+this work,
+
+either to 
+faith and righteousness,
+
+or to the hardness of 
+
+heart in 
+unbelief, 
+
+
+to their own condemnation.<,>
+
+for the Lord 
+God hath spoken 
+it, for we<,> 
+<the> <E>elders of the Church<,> have heard and bear record<witness> to the words of 
+the glorious Maj<g>esty on high,<;> to whom be glory forever and ever<.>— Amen.
+
+Wherefore, by these things we know, that there is a God in 
+Heaven, who 
+is infinite and eternal, from everlasting to everlasting<,> the same unchangeable 
+God.<,> the M<m>aker of <H>heaven 
+and earth 
+and all things 
+that in 
+them is,
+
+and that he is all power, and all wisdom, and all understanding,
+and that he 
+created man 
+male and 
+female<, and> after his own image<,> and in his 
+own likeness created he them,<;>
+
+and that he 
+gave unto the children of men commandment<s,> that they should love and serve 
+him the only being 
+
+
+
+
+whom they should worship,
+
+but by the transgression 
+of these holy 
+laws, 
+me<a>n became sensual and devilish, and became fallen 
+man—<:>
+
+Wherefore the Almighty God 
+gave his only begotten Son, 
+as it is written in those s<S>criptures<,> which have been given of him,
+
+that he suffered temptations<,> but gave no heed unto them,<;>
+
+that he was crucified<,>and 
+died<,> and 
+rose again the third day,
+
+and that he ascended into h<H>eaven to sit down on the right hand of the 
+Father, to reign 
+with Almighty power<,> 
+according to the will of the Father,<.>
+
+<Therefore,>that 
+as 
+many as would believe and 
+were 
+baptized into<in> 
+
+his holy name<,> and endured in 
+faith to the end<,> should be 
+saved;
+
+yea<,> 
+
+
+
+
+
+
+
+even as many as were before he came in the 
+flesh, from the beginning, 
+which<who> believed in the words of the 
+holy 
+Prophets, 
+which<who> 
+
+were inspired by the gift of the Holy Ghost, which 
+truly 
+testified<s> of him in all things,
+
+as well <as> 
+they<those> which<who> should come after, which <who> should believe in the gifts and callings of 
+God<,> by the Holy Ghost<,> which beareth record 
+of the Father 
+and of the 
+Son,
+
+which 
+Father and the 
+Son and 
+Holy Ghost<,> is one God, 
+infinite and 
+eternal, without end.— 
+Amen.
+
+And we 
+know<,> that all men must 
+repent and 
+believe on the name of Jesus Christ, and 
+worship the 
+Father in his name<,> and endure in faith on his name to the end, or they 
+cannot be saved in the k<K>ingdom 
+of God,<:>
+
+And we know<,> that j<J>ustification through the grace of our Lord and Saviour Jesus Christ<,> is just 
+and true,<;>
+
+and we also know<,> also<,> that Sanctification through the grace of our Lord and Saviour 
+Jesus Christ<,> is just and true<,> to all those who love and serve God 
+with all their 
+mights, minds, &<and> strength,
+
+B<b>ut there is 
+a possibility that men may fall 
+from grace and depart from the living God,<.>
+
+<T>therefore let 
+the Church take heed and pray always, lest 
+they enter<fall> 
+into temptations;
+
+yea, and 
+<even> he that is 
+
+sanctified 
+also.<:>
+
+A<a>nd we know<,> that these things are true 
+and agreeable to the R<r>evelations of Jesus Christ which was signified by his angel unto
+John, neither adding <to,> nor diminishing to <from> the prophecy of his Book; neither 
+to the holy 
+s<S>criptures; neither to 
+the Revelations of God which shal[l] come hereafter<,> by the gift and power of the Holy Ghost,<;> neither by the voice of God; neither by 
+the ministering 
+of 
+angels.<,>
+
+A<a>nd the Lord God hath spoken it<;>—and 
+honor, 
+power, and 
+glory be 
+rendered to his holy name both now 
+and ever.— 
+Amen.
+
+And again, 
+by way of commandment 
+to the <C>church<,> concerning the manner of 
+baptism,<:> 
+Behold 
+whosoever humbleth himself 
+
+
+before 
+God and 
+desireth to be baptized, and comes 
+forth with a broken heart and a 
+contrite spirit, and witnesseth unto 
+the 
+Church, that 
+they have truly 
+repented of all 
+their sins and 
+are willing to take upon them the name of 
+Christ, having a determination to serve him unto the end, and truly manifest by their works that they have received 
+the gift<Spirit> of 
+Christ unto the remission of their sins, then shall they 
+
+be received unto baptism into 
+the Church 
+of Christ.
+
+The duty of 
+the Elders, 
+Priests, 
+Teachers, and Deacons 
+and members 
+of the Church of Christ:—<.> 
+An Apostle is 
+an Elder, 
+and it is his 
+calling to 
+baptize
+
+and to 
+ordain other 
+e<E>lders, 
+p<P>riests, t<T>eachers, 
+and 
+d<D>eacons,
+
+and to 
+administer the 
+
+
+flesh and 
+blood of Christ
+
+according to 
+the Scriptures,
+
+and to 
+teach, 
+expound, 
+and exhort, 
+and to baptize, 
+and to watch 
+over the 
+c<C>hurch,
+
+and to 
+confirm the 
+c<C>hurch by the laying on of <the> hands<,> and the giving of the Holy Ghost,
+
+and to take 
+the lead of all meetings, &c.
+
+The e<E>lders 
+are to conduct the meetings 
+
+as they are led by the Holy Ghost.
+
+The p<P>riests’ duty is to preach, teach, 
+expound, and
+exhort, and 
+baptize, and administer the s<S>acrament,
+
+and visit the 
+house of each member, and exhort them to pray vocally and in secret, and also 
+to attend to all family duties,<;>
+
+<and> to 
+
+ordain <other> p<P>riests, t<T>eachers, 
+and 
+d<D>eacons,
+
+and to 
+take the lead in meetings; but 
+none of these offices is he to do 
+when there is an e<E>lder 
+present,
+
+but in all cases 
+
+
+is to assist the e<E>lder, &c.
+
+The 
+Teacher,s<’> 
+duty is to watch over the Church always, and be 
+with them<,> and strengthen 
+them,
+
+and see that 
+there is no 
+iniquity in the Church, nor no <neither> hardness with each 
+other, nor no <neither> lying nor back<->biting nor no evil speaking;
+
+and see that 
+the c<C>hurch meets together oft<en>, and 
+also see that 
+every <all the> member<s> does his their 
+duty,<;>
+
+and he is to 
+take the lead of 
+
+meetings in the abs<c>ence of the e<E>lder or p<P>riest,
+
+and is to be assisted always<,> and in all his 
+duties in the c<C>hurch by the d<D>eacons.<;>
+
+B<b>ut neither 
+the t<T>eacher 
+nor the
+d<D>eacons<,> has<ve> authority to baptize nor administer the s<S>acrament;<,>
+
+but are 
+to 
+warn, <expound,> exhort, expound and teach<,> 
+and invite all to 
+come unto Christ.
+
+Every e<E>lder, p<P>riest, t<T>eacher, or d<D>eacon, is to be ordained according to the gifts and 
+callings of God unto them<him,> 
+
+
+by the power of 
+the Holy Ghost which is in the one who ordains them<him>.
+
+The several e<E>lders composing this c<C>hurch of Christ<,> are to meet 
+at each of its meetings 
+<in Conference once in three months,>
+
+to 
+do 
+c<C>hurch business whatsoever is necessary, &c.
+
+a<A>nd each p<P>riest or t<T>eacher<,> 
+
+who is ordained by any p<P>riest<,> is to take a 
+ce<i>irtificate from him at the time, which 
+when shown <presented> 
+to an e<E>lder, 
+he is to give 
+him 
+a License, 
+which shall authorize him to perform the duty 
+of his calling.
+
+The duty of 
+the church members after they are received by baptism<.>:--The e<E>lders or p<P>riests are to have a sufficient time to expound all things concerning this c<C>hurch of Christ to their understanding<,> previous to their partaking of the s<S>acrament, and being confirmed by the laying on of the hands of the Elders,<;> so 
+that all things 
+shall <may> be done in order;<.>
+
+a<A>nd the members shall manifest before the c<C>hurch<,> and also before the Elders<,> by a godly walk and conversation<,> that they are worthy of it, that there 
+may be works 
+and faith 
+agreeable to the holy 
+s<S>criptures, walking in 
+holiness before 
+the Lord.
+
+Every 
+member of this c<C>hurch of Christ having children, are<is> to bring them unto the e<E>lders before the Church<,> 
+who are to lay 
+<their> hands on them in the name of the Lord, 
+
+and bless them in the name of Christ.
+
+There cannot any one 
+be 
+received into 
+this c<C>hurch of Christ<,> 
+who have <has> not 
+arrived to the 
+years of accountability before God, 
+and are<is> not capable of repentance.
+
+And the manner of 
+
+baptism< is to be> <ad>ministered in the following manner unto all those who R<r>epent<:>
+
+w<W>hosoever being 
+
+
+called of God &<and> having authority given them of Jesus Christ<,> 
+shall go down into the water with them<,>& shall say calling them by name 
+
+
+and shall say, calling them by name: 
+<H>having authority given me of Jesus Christ, 
+
+
+
+I baptize thee in the name of Jesus Christ the Father & of the Son & of the Holy Ghost amen <you in the name of the Father, and of the Son, and of the Holy Ghost. 
+Amen.
+
+<T>then S<s>hall he immerse them 
+
+in the water<, and>& come forth again out of the water.
+
+& the manner of administering the sacrament are to be done as is written in the Book of Morman.
+<And it is 
+expedient that the Church meet together oft to partake <of> B>b<read &<and> <W>wine<,> in R<r>emembrance of the Lord Jesus<;>
+
+&<and> the 
+Elder or 
+Priest shall <ad>minister it<,> &<and> after this manner shall he do<,> 
+he shall kneel with the Church<, and>& call upon the Father in mighty prayer 
+saying<:>
+
+O God the 
+Eternal Father<,> we ask thee in the name of thy s<S>on Jesus Christ<,> to B<b>less &<and> sanctify this 
+bread to the souls of all those who partake of it<,> that they may eat in R<r>ememberance of the body of thy Son<, and>& witness unto thee<,> O God the Eternal Father<,> that they are willing to take upon them the name of thy Son<, and>& always R<r>emember him<, and>& keep his commandments which he hath 
+given them<,> that they may always have his spirit to be with them<. >
+Amen.
+
+The 
+manner of administering the w<W>ine<:> Behold they 
+shall take the 
+Cup &<and> say<,>
+
+O God<,> the Eternal Father<,> we ask thee in the name of thy Son Jesus Christ<,> to bless &<and> sanctify this Wine to the souls of all those who drink of it<,> that they <may> do it in R<r>ememberance of the blood of thy Son<,> which was shed for them<,> that they may witness unto thee<,> O God the Eternal Father<,> that they do always R<r>emember him, that they may have his spirit to be with them<.> a<A>men<.>
+
+Any 
+member of this c<C>hurch of Christ<,> transgressing, or being overtaken in a fault, shall be dealt with according as the Scriptures direct,<.> &c
+
+It shall be 
+the duty of the several 
+churches<,> composing this c<C>hurch of Christ<,> to send one <or more> of their priests<Teachers> 
+
+to attend the several c<C>onferences<,> held by the e<E>lders of the<is> c<C>hurch<,>
+
+with a list of 
+the names <of> the several persons <members,> uniting themselves to the c<C>hurch since the last c<C>onference, or send by the hand of some elder <Priest>, so that there can be kept 
+a regular list of all the names of the members of the whole Church, 
+
+in a Book kept by one of the 
+Elders; whomsoever 
+the 
+other Elders 
+shall appoint from time to time:
+
+and also<,> 
+if any have been expelled from the c<C>hurch<,> so that their names may be blotted out of the general c<C>hurch r<R>ecord of names;<.>
+
+a<A>ny 
+member 
+removing from the c<C>hurch where he resides, if 
+going to a c<C>hurch where he is not 
+known, may take 
+<a> letter certifying that he is a <regular> 
+member and 
+in good standing,<;> 
+which 
+certificate may 
+be signed by any e<E>lder or 
+p<P>riest, if the person<member >
+receiving the letter is personally acquainted with the Elder or 
+Priest, or <it> 
+may be signed by the t<T>eachers or d<D>eacons of his <the> c<C>hurch.

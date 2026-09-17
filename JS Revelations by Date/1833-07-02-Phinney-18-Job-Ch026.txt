@@ -1,0 +1,31 @@
+════════════════════════════════════════════════════════════
+SOURCE: KJV public-domain text (Project Gutenberg #10) — PHINNEY-
+  PROXY per the ratified M-8 rule; upgradeable verbatim to a
+  digitized 1828 Phinney edition if one is obtained.
+BOOK: Job Chapter 26
+TRANSLATION SEGMENT: Old Testament resumed, 20 Jul 1832 – 2 Jul 1833
+DATED: 1833-07-02 (segment END date — the chapter existed for Joseph by
+  this date; he read but did not revise it in the New Translation)
+GENERATED: 2026-09-08 ERIC-AUTHORIZED MIGRATION (migrate_phinney_proxies.py)
+════════════════════════════════════════════════════════════
+
+3
+How hast thou counselled him that hath no wisdom? and how hast thou plentifully declared the thing as it is? 26:4 To whom hast thou uttered words? and whose spirit came from thee? 26:5 Dead things are formed from under the waters, and the inhabitants thereof.
+6
+Hell is naked before him, and destruction hath no covering.
+7
+He stretcheth out the north over the empty place, and hangeth the earth upon nothing.
+8
+He bindeth up the waters in his thick clouds; and the cloud is not rent under them.
+9
+He holdeth back the face of his throne, and spreadeth his cloud upon it.
+10
+He hath compassed the waters with bounds, until the day and night come to an end.
+11
+The pillars of heaven tremble and are astonished at his reproof.
+12
+He divideth the sea with his power, and by his understanding he smiteth through the proud.
+13
+By his spirit he hath garnished the heavens; his hand hath formed the crooked serpent.
+14
+Lo, these are parts of his ways: but how little a portion is heard of him? but the thunder of his power who can understand? 27:1 Moreover Job continued his parable, and said, 27:2 As God liveth, who hath taken away my judgment; and the Almighty, who hath vexed my soul;

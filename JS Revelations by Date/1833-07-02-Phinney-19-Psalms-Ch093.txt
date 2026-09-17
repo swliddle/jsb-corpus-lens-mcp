@@ -1,0 +1,21 @@
+════════════════════════════════════════════════════════════
+SOURCE: KJV public-domain text (Project Gutenberg #10) — PHINNEY-
+  PROXY per the ratified M-8 rule; upgradeable verbatim to a
+  digitized 1828 Phinney edition if one is obtained.
+BOOK: Psalms Chapter 93
+TRANSLATION SEGMENT: Old Testament resumed, 20 Jul 1832 – 2 Jul 1833
+DATED: 1833-07-02 (segment END date — the chapter existed for Joseph by
+  this date; he read but did not revise it in the New Translation)
+GENERATED: 2026-09-08 ERIC-AUTHORIZED MIGRATION (migrate_phinney_proxies.py)
+════════════════════════════════════════════════════════════
+
+1
+The LORD reigneth, he is clothed with majesty; the LORD is clothed with strength, wherewith he hath girded himself: the world also is stablished, that it cannot be moved.
+2
+Thy throne is established of old: thou art from everlasting.
+3
+The floods have lifted up, O LORD, the floods have lifted up their voice; the floods lift up their waves.
+4
+The LORD on high is mightier than the noise of many waters, yea, than the mighty waves of the sea.
+5
+Thy testimonies are very sure: holiness becometh thine house, O LORD, for ever.

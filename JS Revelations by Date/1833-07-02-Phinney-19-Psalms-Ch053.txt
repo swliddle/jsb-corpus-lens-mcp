@@ -1,0 +1,23 @@
+════════════════════════════════════════════════════════════
+SOURCE: KJV public-domain text (Project Gutenberg #10) — PHINNEY-
+  PROXY per the ratified M-8 rule; upgradeable verbatim to a
+  digitized 1828 Phinney edition if one is obtained.
+BOOK: Psalms Chapter 53
+TRANSLATION SEGMENT: Old Testament resumed, 20 Jul 1832 – 2 Jul 1833
+DATED: 1833-07-02 (segment END date — the chapter existed for Joseph by
+  this date; he read but did not revise it in the New Translation)
+GENERATED: 2026-09-08 ERIC-AUTHORIZED MIGRATION (migrate_phinney_proxies.py)
+════════════════════════════════════════════════════════════
+
+1
+The fool hath said in his heart, There is no God. Corrupt are they, and have done abominable iniquity: there is none that doeth good.
+2
+God looked down from heaven upon the children of men, to see if there were any that did understand, that did seek God.
+3
+Every one of them is gone back: they are altogether become filthy; there is none that doeth good, no, not one.
+4
+Have the workers of iniquity no knowledge? who eat up my people as they eat bread: they have not called upon God.
+5
+There were they in great fear, where no fear was: for God hath scattered the bones of him that encampeth against thee: thou hast put them to shame, because God hath despised them.
+6
+Oh that the salvation of Israel were come out of Zion! When God bringeth back the captivity of his people, Jacob shall rejoice, and Israel shall be glad.

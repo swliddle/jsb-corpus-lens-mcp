@@ -1,0 +1,21 @@
+════════════════════════════════════════════════════════════
+SOURCE: KJV public-domain text (Project Gutenberg #10) — PHINNEY-
+  PROXY per the ratified M-8 rule; upgradeable verbatim to a
+  digitized 1828 Phinney edition if one is obtained.
+BOOK: Psalms Chapter 125
+TRANSLATION SEGMENT: Old Testament resumed, 20 Jul 1832 – 2 Jul 1833
+DATED: 1833-07-02 (segment END date — the chapter existed for Joseph by
+  this date; he read but did not revise it in the New Translation)
+GENERATED: 2026-09-08 ERIC-AUTHORIZED MIGRATION (migrate_phinney_proxies.py)
+════════════════════════════════════════════════════════════
+
+1
+They that trust in the LORD shall be as mount Zion, which cannot be removed, but abideth for ever.
+2
+As the mountains are round about Jerusalem, so the LORD is round about his people from henceforth even for ever.
+3
+For the rod of the wicked shall not rest upon the lot of the righteous; lest the righteous put forth their hands unto iniquity.
+4
+Do good, O LORD, unto those that be good, and to them that are upright in their hearts.
+5
+As for such as turn aside unto their crooked ways, the LORD shall lead them forth with the workers of iniquity: but peace shall be upon Israel.

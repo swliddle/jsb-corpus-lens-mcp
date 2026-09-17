@@ -1,0 +1,25 @@
+════════════════════════════════════════════════════════════
+SOURCE: KJV public-domain text (Project Gutenberg #10) — PHINNEY-
+  PROXY per the ratified M-8 rule; upgradeable verbatim to a
+  digitized 1828 Phinney edition if one is obtained.
+BOOK: Psalms Chapter 87
+TRANSLATION SEGMENT: Old Testament resumed, 20 Jul 1832 – 2 Jul 1833
+DATED: 1833-07-02 (segment END date — the chapter existed for Joseph by
+  this date; he read but did not revise it in the New Translation)
+GENERATED: 2026-09-08 ERIC-AUTHORIZED MIGRATION (migrate_phinney_proxies.py)
+════════════════════════════════════════════════════════════
+
+1
+His foundation is in the holy mountains.
+2
+The LORD loveth the gates of Zion more than all the dwellings of Jacob.
+3
+Glorious things are spoken of thee, O city of God. Selah.
+4
+I will make mention of Rahab and Babylon to them that know me: behold Philistia, and Tyre, with Ethiopia; this man was born there.
+5
+And of Zion it shall be said, This and that man was born in her: and the highest himself shall establish her.
+6
+The LORD shall count, when he writeth up the people, that this man was born there. Selah.
+7
+As well the singers as the players on instruments shall be there: all my springs are in thee.

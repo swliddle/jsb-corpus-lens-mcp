@@ -1,0 +1,33 @@
+════════════════════════════════════════════════════════════
+SOURCE: KJV public-domain text (Project Gutenberg #10) — PHINNEY-
+  PROXY per the ratified M-8 rule; upgradeable verbatim to a
+  digitized 1828 Phinney edition if one is obtained.
+BOOK: Job Chapter 7
+TRANSLATION SEGMENT: Old Testament resumed, 20 Jul 1832 – 2 Jul 1833
+DATED: 1833-07-02 (segment END date — the chapter existed for Joseph by
+  this date; he read but did not revise it in the New Translation)
+GENERATED: 2026-09-08 ERIC-AUTHORIZED MIGRATION (migrate_phinney_proxies.py)
+════════════════════════════════════════════════════════════
+
+4
+When I lie down, I say, When shall I arise, and the night be gone? and I am full of tossings to and fro unto the dawning of the day.
+5
+My flesh is clothed with worms and clods of dust; my skin is broken, and become loathsome.
+6
+My days are swifter than a weaver’s shuttle, and are spent without hope.
+7
+O remember that my life is wind: mine eye shall no more see good.
+8
+The eye of him that hath seen me shall see me no more: thine eyes are upon me, and I am not.
+9
+As the cloud is consumed and vanisheth away: so he that goeth down to the grave shall come up no more.
+10
+He shall return no more to his house, neither shall his place know him any more.
+11
+Therefore I will not refrain my mouth; I will speak in the anguish of my spirit; I will complain in the bitterness of my soul.
+12
+Am I a sea, or a whale, that thou settest a watch over me? 7:13 When I say, My bed shall comfort me, my couch shall ease my complaints; 7:14 Then thou scarest me with dreams, and terrifiest me through visions: 7:15 So that my soul chooseth strangling, and death rather than my life.
+16
+I loathe it; I would not live alway: let me alone; for my days are vanity.
+17
+What is man, that thou shouldest magnify him? and that thou shouldest set thine heart upon him? 7:18 And that thou shouldest visit him every morning, and try him every moment? 7:19 How long wilt thou not depart from me, nor let me alone till I swallow down my spittle? 7:20 I have sinned; what shall I do unto thee, O thou preserver of men? why hast thou set me as a mark against thee, so that I am a burden to myself? 7:21 And why dost thou not pardon my transgression, and take away my iniquity? for now shall I sleep in the dust; and thou shalt seek me in the morning, but I shall not be.

@@ -1,0 +1,27 @@
+════════════════════════════════════════════════════════════
+SOURCE: KJV public-domain text (Project Gutenberg #10) — PHINNEY-
+  PROXY per the ratified M-8 rule; upgradeable verbatim to a
+  digitized 1828 Phinney edition if one is obtained.
+BOOK: Psalms Chapter 124
+TRANSLATION SEGMENT: Old Testament resumed, 20 Jul 1832 – 2 Jul 1833
+DATED: 1833-07-02 (segment END date — the chapter existed for Joseph by
+  this date; he read but did not revise it in the New Translation)
+GENERATED: 2026-09-08 ERIC-AUTHORIZED MIGRATION (migrate_phinney_proxies.py)
+════════════════════════════════════════════════════════════
+
+1
+If it had not been the LORD who was on our side, now may Israel say;
+2
+If it had not been the LORD who was on our side, when men rose up against us:
+3
+Then they had swallowed us up quick, when their wrath was kindled against us:
+4
+Then the waters had overwhelmed us, the stream had gone over our soul:
+5
+Then the proud waters had gone over our soul.
+6
+Blessed be the LORD, who hath not given us as a prey to their teeth.
+7
+Our soul is escaped as a bird out of the snare of the fowlers: the snare is broken, and we are escaped.
+8
+Our help is in the name of the LORD, who made heaven and earth.

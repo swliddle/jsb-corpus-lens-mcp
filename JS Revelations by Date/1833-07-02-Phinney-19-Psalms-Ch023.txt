@@ -1,0 +1,23 @@
+════════════════════════════════════════════════════════════
+SOURCE: KJV public-domain text (Project Gutenberg #10) — PHINNEY-
+  PROXY per the ratified M-8 rule; upgradeable verbatim to a
+  digitized 1828 Phinney edition if one is obtained.
+BOOK: Psalms Chapter 23
+TRANSLATION SEGMENT: Old Testament resumed, 20 Jul 1832 – 2 Jul 1833
+DATED: 1833-07-02 (segment END date — the chapter existed for Joseph by
+  this date; he read but did not revise it in the New Translation)
+GENERATED: 2026-09-08 ERIC-AUTHORIZED MIGRATION (migrate_phinney_proxies.py)
+════════════════════════════════════════════════════════════
+
+1
+The LORD is my shepherd; I shall not want.
+2
+He maketh me to lie down in green pastures: he leadeth me beside the still waters.
+3
+He restoreth my soul: he leadeth me in the paths of righteousness for his name’s sake.
+4
+Yea, though I walk through the valley of the shadow of death, I will fear no evil: for thou art with me; thy rod and thy staff they comfort me.
+5
+Thou preparest a table before me in the presence of mine enemies: thou anointest my head with oil; my cup runneth over.
+6
+Surely goodness and mercy shall follow me all the days of my life: and I will dwell in the house of the LORD for ever.

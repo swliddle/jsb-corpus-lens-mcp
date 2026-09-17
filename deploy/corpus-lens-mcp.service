@@ -1,0 +1,67 @@
+# systemd unit for the corpus-lens MCP server (HTTP mode, behind Apache).
+#
+# Install:
+#   sudo cp deploy/corpus-lens-mcp.service /etc/systemd/system/
+#   sudo systemctl daemon-reload
+#   sudo systemctl enable --now corpus-lens-mcp
+#
+# Inspect:
+#   systemctl status corpus-lens-mcp
+#   journalctl -u corpus-lens-mcp -f        # startup line, 401s, embedding failures
+#
+# See deploy/DEPLOY.md for the one-time setup this unit assumes.
+
+[Unit]
+Description=corpus-lens MCP server
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=simple
+# A dedicated account, NOT www-data: Apache (and anything it runs) must not be
+# able to read this service's files or signal its process.
+User=corpus-lens
+Group=corpus-lens
+WorkingDirectory=/var/www/corpus-lens-mcp
+
+# Secrets: GOOGLE_API_KEY and CORPUS_API_TOKENS. root:root, mode 600. systemd
+# reads it as root before dropping privileges, so the service account never
+# needs read access to the file itself.
+EnvironmentFile=/etc/corpus-lens/env
+
+Environment=NODE_ENV=production
+Environment=CORPUS_TRANSPORT=http
+Environment=CORPUS_HOST=127.0.0.1
+Environment=CORPUS_PORT=8765
+Environment=CORPUS_CACHE_DIR=/var/lib/corpus-lens/bundle/cache
+Environment="CORPUS_THEMES=/var/lib/corpus-lens/bundle/themes/Theme Descriptions.txt"
+Environment=CORPUS_VERIFY_BUNDLE=/var/lib/corpus-lens/bundle
+Environment=CORPUS_USAGE_LOG=/var/lib/corpus-lens/usage.jsonl
+
+ExecStart=/usr/local/bin/node dist/main.js
+Restart=always
+RestartSec=3
+
+# /var/lib/corpus-lens — created and owned by the service account; the ONE
+# place it may write (the usage log). The bundle lives here too.
+StateDirectory=corpus-lens
+StateDirectoryMode=0750
+
+# Hardening
+NoNewPrivileges=true
+PrivateTmp=true
+PrivateDevices=true
+ProtectSystem=strict
+ProtectHome=true
+ProtectKernelTunables=true
+ProtectKernelModules=true
+ProtectControlGroups=true
+RestrictAddressFamilies=AF_INET AF_INET6 AF_UNIX
+RestrictNamespaces=true
+LockPersonality=true
+CapabilityBoundingSet=
+# The index is ~200 MB resident; this is a ceiling against a runaway, not a budget.
+MemoryMax=1G
+
+[Install]
+WantedBy=multi-user.target

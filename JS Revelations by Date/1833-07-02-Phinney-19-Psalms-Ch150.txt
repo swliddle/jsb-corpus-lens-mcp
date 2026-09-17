@@ -1,0 +1,23 @@
+════════════════════════════════════════════════════════════
+SOURCE: KJV public-domain text (Project Gutenberg #10) — PHINNEY-
+  PROXY per the ratified M-8 rule; upgradeable verbatim to a
+  digitized 1828 Phinney edition if one is obtained.
+BOOK: Psalms Chapter 150
+TRANSLATION SEGMENT: Old Testament resumed, 20 Jul 1832 – 2 Jul 1833
+DATED: 1833-07-02 (segment END date — the chapter existed for Joseph by
+  this date; he read but did not revise it in the New Translation)
+GENERATED: 2026-09-08 ERIC-AUTHORIZED MIGRATION (migrate_phinney_proxies.py)
+════════════════════════════════════════════════════════════
+
+1
+Praise ye the LORD. Praise God in his sanctuary: praise him in the firmament of his power.
+2
+Praise him for his mighty acts: praise him according to his excellent greatness.
+3
+Praise him with the sound of the trumpet: praise him with the psaltery and harp.
+4
+Praise him with the timbrel and dance: praise him with stringed instruments and organs.
+5
+Praise him upon the loud cymbals: praise him upon the high sounding cymbals.
+6
+Let every thing that hath breath praise the LORD. Praise ye the LORD.

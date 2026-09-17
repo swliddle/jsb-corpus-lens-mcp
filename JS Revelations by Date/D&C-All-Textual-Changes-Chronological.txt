@@ -1,0 +1,40 @@
+══════════════════════════════════════════════════════════════════════
+D&C CONSOLIDATED TEXTUAL CHANGES — CHRONOLOGICAL ORDER
+Generated: 2026-04-18 21:41
+══════════════════════════════════════════════════════════════════════
+
+This document lists ALL meaning-altering textual changes across
+every edition of every D&C section, ordered by edition date.
+
+══════════════════════════════════════════════════════════════════════
+
+──────────────────────────────────────────────────────────────────────
+  EDITION DATE: ca-1830-04
+──────────────────────────────────────────────────────────────────────
+
+  ▶ D&C Section 20: Revelation Book 1 (ca-1830-04) → Unknown Source (ca-1830-04)
+    File: ca-1830-04-D&C-20.txt
+
+    1. PHRASE ADDITION (verse 1):
+       EARLIER: "in the 4th month & on the 6th day of the same,"
+       LATER:   "in the 4th<fourth> <M>month, and<&> on the 6th<Sixth> day of the same, <Month which is called April[.]>"
+       → This addition specifies that the "4th month" is April, removing ambiguity.
+
+    2. PHRASE ADDITION (verse 2):
+       EARLIER: "were given to Joseph Smith, jun."
+       LATER:   "were given to Joseph Smith, jun. <the seer>"
+       → This adds the title "the seer" to Joseph Smith's description, defining one of his key roles.
+
+    3. PHRASE ADDITION (verse 3):
+       EARLIER: "according to the grace of our Lord & saveiour Jesus Christ"
+       LATER:   "according to the grace of <God the Father, and>& our Lord & saveiour Jesus Christ"
+       → This addition explicitly includes God the Father as a source of grace, clarifying the theology.
+
+    4. WORD CHANGE (verse 5):
+       EARLIER: "God ministered unto him by an Holy Angel"
+       LATER:   "God ministered unto <"
+
+
+══════════════════════════════════════════════════════════════════════
+TOTAL MEANING-ALTERING CHANGES: 4
+══════════════════════════════════════════════════════════════════════

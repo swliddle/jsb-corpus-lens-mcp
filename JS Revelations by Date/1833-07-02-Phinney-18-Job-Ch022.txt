@@ -1,0 +1,49 @@
+════════════════════════════════════════════════════════════
+SOURCE: KJV public-domain text (Project Gutenberg #10) — PHINNEY-
+  PROXY per the ratified M-8 rule; upgradeable verbatim to a
+  digitized 1828 Phinney edition if one is obtained.
+BOOK: Job Chapter 22
+TRANSLATION SEGMENT: Old Testament resumed, 20 Jul 1832 – 2 Jul 1833
+DATED: 1833-07-02 (segment END date — the chapter existed for Joseph by
+  this date; he read but did not revise it in the New Translation)
+GENERATED: 2026-09-08 ERIC-AUTHORIZED MIGRATION (migrate_phinney_proxies.py)
+════════════════════════════════════════════════════════════
+
+7
+Thou hast not given water to the weary to drink, and thou hast withholden bread from the hungry.
+8
+But as for the mighty man, he had the earth; and the honourable man dwelt in it.
+9
+Thou hast sent widows away empty, and the arms of the fatherless have been broken.
+10
+Therefore snares are round about thee, and sudden fear troubleth thee; 22:11 Or darkness, that thou canst not see; and abundance of waters cover thee.
+12
+Is not God in the height of heaven? and behold the height of the stars, how high they are! 22:13 And thou sayest, How doth God know? can he judge through the dark cloud? 22:14 Thick clouds are a covering to him, that he seeth not; and he walketh in the circuit of heaven.
+15
+Hast thou marked the old way which wicked men have trodden?
+16
+Which were cut down out of time, whose foundation was overflown with a flood: 22:17 Which said unto God, Depart from us: and what can the Almighty do for them? 22:18 Yet he filled their houses with good things: but the counsel of the wicked is far from me.
+19
+The righteous see it, and are glad: and the innocent laugh them to scorn.
+20
+Whereas our substance is not cut down, but the remnant of them the fire consumeth.
+21
+Acquaint now thyself with him, and be at peace: thereby good shall come unto thee.
+22
+Receive, I pray thee, the law from his mouth, and lay up his words in thine heart.
+23
+If thou return to the Almighty, thou shalt be built up, thou shalt put away iniquity far from thy tabernacles.
+24
+Then shalt thou lay up gold as dust, and the gold of Ophir as the stones of the brooks.
+25
+Yea, the Almighty shall be thy defence, and thou shalt have plenty of silver.
+26
+For then shalt thou have thy delight in the Almighty, and shalt lift up thy face unto God.
+27
+Thou shalt make thy prayer unto him, and he shall hear thee, and thou shalt pay thy vows.
+28
+Thou shalt also decree a thing, and it shall be established unto thee: and the light shall shine upon thy ways.
+29
+When men are cast down, then thou shalt say, There is lifting up; and he shall save the humble person.
+30
+He shall deliver the island of the innocent: and it is delivered by the pureness of thine hands.

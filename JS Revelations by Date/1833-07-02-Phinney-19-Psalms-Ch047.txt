@@ -1,0 +1,29 @@
+════════════════════════════════════════════════════════════
+SOURCE: KJV public-domain text (Project Gutenberg #10) — PHINNEY-
+  PROXY per the ratified M-8 rule; upgradeable verbatim to a
+  digitized 1828 Phinney edition if one is obtained.
+BOOK: Psalms Chapter 47
+TRANSLATION SEGMENT: Old Testament resumed, 20 Jul 1832 – 2 Jul 1833
+DATED: 1833-07-02 (segment END date — the chapter existed for Joseph by
+  this date; he read but did not revise it in the New Translation)
+GENERATED: 2026-09-08 ERIC-AUTHORIZED MIGRATION (migrate_phinney_proxies.py)
+════════════════════════════════════════════════════════════
+
+1
+O clap your hands, all ye people; shout unto God with the voice of triumph.
+2
+For the LORD most high is terrible; he is a great King over all the earth.
+3
+He shall subdue the people under us, and the nations under our feet.
+4
+He shall choose our inheritance for us, the excellency of Jacob whom he loved. Selah.
+5
+God is gone up with a shout, the LORD with the sound of a trumpet.
+6
+Sing praises to God, sing praises: sing praises unto our King, sing praises.
+7
+For God is the King of all the earth: sing ye praises with understanding.
+8
+God reigneth over the heathen: God sitteth upon the throne of his holiness.
+9
+The princes of the people are gathered together, even the people of the God of Abraham: for the shields of the earth belong unto God: he is greatly exalted.

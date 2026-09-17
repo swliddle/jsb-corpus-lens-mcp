@@ -1,0 +1,563 @@
+Journal, March–September 1838 [D&C 116]
+
+═══ SOURCE NOTE ═══
+Source: The Joseph Smith Papers
+URL: https://www.josephsmithpapers.org/paper-summary/journal-march-september-1838/28
+
+JS, “The Scriptory Book—of Joseph Smith J r . —President of The Church of Jesus Christ , of
+Latterday Saints In all the World,” Journal, Mar.–Sept. 1838; handwriting of George W. Robinson and
+James Mulholland ; sixty-nine pages; in “General,” Record Book, 1838, verso of Patriarchal
+Blessings, vol. 5, CHL. Includes redactions and archival marking. JS’s “Scriptory Book” is recorded
+on pages 15 to 83 of a large record book entitled “General” that also includes a list of church
+members in Caldwell County , Missouri (pages 2–14), a copy of JS’s 16 December 1838 letter from the
+jail in Located in western Missouri, thirteen miles north of Independence. Settled 1820. Clay Co.
+seat, 1822. Incorporated as town, May 1829. Following expulsion from Jackson Co., 1833, many
+Latter-day Saints found refuge in Clay Co., with church leaders and other... More Info Two-story
+building containing dungeon on lower floor with access through trap door. Constructed, 1833. JS and
+five others confined there for just over four months, beginning 1 Dec. 1838, while awaiting trial
+for charges in connection with “Mormon War.” JS... More Info , Missouri (pages 101–108), and an
+aborted record partially entitled “Recor” in unidentified handwriting (page 110). The book, which
+measures 13 x 8¼ x 1¾ inches (33 x 21 x 4 cm), has 182 leaves of ledger paper sized 12½ x 7¾ inches
+(32 x 20 cm) with thirty-seven lines in blue ink per page. There are eighteen gatherings of various
+sizes, each of about a dozen leaves. The text block is sewn all along over three vellum tapes. The
+heavy pink endpapers each consist of a pastedown and two flyleaves pasted together. The text block
+edges are stained green. The volume has a hardbound ledger-style binding with a hollow-back spine
+and glued-on blue-striped cloth headbands. It is bound in brown split-calfskin leather with
+blind-tooled decoration around the outside border and along the turned-in edges of the leather on
+the inside covers. At some point the letter “G” was hand printed in ink on the front cover. The
+original leather cover over the spine—which appears to have been intentionally removed—may have
+borne a title or filing notation. The journal is inscribed in black ink that later turned brown and
+is almost entirely in the handwriting of George W. Robinson . James Mulholland ’s handwriting
+appears in a copy of the 23 July 1837 revelation for Thomas B. Marsh (D&C 112) on pages 72–74.
+Running heads added by Robinson throughout the journal indicate the months of the entries on the
+page. The volume was later used in Nauvoo , Illinois, as a source for JS’s multivolume manuscript
+history of the church. During the preparation of the history, redactions and use marks were made in
+graphite pencil. Redactions in graphite and ink may have been made at other times as well. In 1845,
+the book was turned over so that the back cover became the front and the last page became the first.
+This side of the book was used to record patriarchal blessings. The original spine may have been
+removed at this time. The spine is now labeled with a number “5”, designating its volume number in a
+series of books of patriarchal blessings. The volume is listed in Nauvoo and early Utah inventories
+of church records, indicating continuous custody. 1 Historian’s Office. Catalogs and Inventories,
+1846–1904. CHL. CR 100 130. Smith, Joseph. Collection, 1827–1846. CHL. MS 155 . At some point, the
+leaf containing pages 54 and 55 was torn from the journal. This removed leaf—which is transcribed
+herein and contains, among other writings, the earliest extant text of an 8 July 1838 revelation for
+the Quorum of the Twelve (D&C 118)—was for a time kept in Revelation Book 2. 2 Best, Christy.
+“Register of the Revelations Collection in the Church Archives, the Church of Jesus Christ of
+Latter-day Saints,” July 1983. CHL. It is now part of the Revelations Collection at the Church
+History Library. Footnotes [1] “Schedule of Church Records. Nauvoo 1846,” [1]; “Historian’s Office
+Catalogue,” [2]; Historian’s Office, “Index of Records and Journals,” [12], Catalogs and
+Inventories, 1846–1904, CHL; JS, Journal, Mar.–Sept. 1838 , microfilm, JS Collection, CHL.
+Historian’s Office. Catalogs and Inventories, 1846–1904. CHL. CR 100 130. Smith, Joseph. Collection,
+1827–1846. CHL. MS 155 . [2] Best, “Register of the Revelations Collection,” 19. Best, Christy.
+“Register of the Revelations Collection in the Church Archives, the Church of Jesus Christ of
+Latter-day Saints,” July 1983. CHL.
+
+═══ HISTORICAL INTRODUCTION ═══
+
+Following the climactic events they experienced in the House of the Lord in spring 1836, JS and
+church members renewed their efforts on three fronts: proselytizing, raising funds to purchase land
+in Missouri on which to settle increasing numbers of Latter-day Saints, and building a larger and
+stronger Latter-day Saint community in Kirtland , Ohio. But in neither Missouri nor Ohio did events
+unfold as expected. Success in gathering converts to Missouri provoked renewed external opposition,
+again forcing church members in that state to relocate. Meanwhile, conflicts engulfed JS in
+Kirtland. Revelations directed Latter-day Saint elders to proselytize throughout the world after
+being empowered in the House of the Lord . A modest beginning during the remainder of 1836
+crescendoed the following year with missionary service throughout the United States and Canada and
+the successful launching of a ministry in England. Their mission was not only to preach and make
+converts but also to gather the descendants of the biblical house of Israel, now scattered
+throughout the world. Converts were encouraged to move to designated locations in Missouri and Ohio
+. The Mormon quest to establish Zion in Missouri, temporarily abandoned after the Saints’ expulsion
+from Jackson County , was thereby reinvigorated. Beginning in April 1836, JS and his associates
+engaged in an aggressive fund-raising campaign for land purchases in Missouri . 1 Minute Book 1 /
+“Conference A,” 1832–1837. CHL. Also available at josephsmithpapers.org. Meanwhile, converts flocked
+to Clay County , Missouri, to join the Latter-day Saints who had been expelled from Jackson County
+in 1833. The rapid growth of the Mormon population eroded the tolerance of other Clay County
+residents, who concluded in late June 1836 that the Saints must leave. By then threats of violence
+and the intimidation of incoming Mormons made the once welcoming community much less so. 2 Latter
+Day Saints’ Messenger and Advocate. Kirtland, OH. Oct. 1834–Sept. 1837. Stokes, Durward T., ed. “The
+Wilson Letters, 1835–1849.” Missouri Historical Review 60, no. 4 (July 1966): 495–517. Returning to
+Jackson County was also an unrealistic option. Attempting to prevent future hostilities—and probably
+to divert Mormon immigration away from more coveted lands—on 29 December 1836, the Missouri
+legislature created Caldwell County , northeast of Clay County , exclusively for Mormon settlement.
+3 An Act to Organize the Counties of Caldwell and Daviess [29 Dec. 1836], Laws of the State of
+Missouri [1836], 46–47 History of Caldwell and Livingston Counties, Missouri, Written and Compiled
+from the Most Authentic Official and Private Sources. . . . St. Louis: National Historical Co.,
+1886. Riggs, Michael S. “The Economic Impact of Fort Leavenworth on Northwestern Missouri,
+1827–1838. Yet Another Reason for the Mormon War?” In Restoration Studies IV: A Collection of Essays
+about the History, Beliefs, and Practices of the Reorganized Church of Jesus Christ of Latter Day
+Saints, edited by Marjorie B. Troeh and Eileen M. Terril, 124–133. Independence, MO: Herald
+Publishing House, 1988. That act gave rise to conflicting expectations. Many Missourians believed
+the Latter-day Saints were thereafter to confine their settlement to Caldwell County. 4 Missouri
+Republican. St. Louis. 1822–1919. Kansas City Daily Journal. Kansas City, MO. 1878–1891. Library of
+Congress Collection. National Archives, Washington DC. Redress petitions from this collection are
+also available in Clark V. Johnson, ed., Mormon Redress Petitions: Documents of the 1833–1838
+Missouri Conflict, Religious Studies Center Monograph Series 16 (Provo, UT: Religious Studies
+Center, Brigham Young University, 1992). The Saints willingly left Clay County and established
+headquarters at Far West in Caldwell County, but they made no formal commitment to limit their
+settlement to one county. Indeed, they anticipated establishing numerous additional stakes of Zion
+elsewhere in northwestern Missouri. Tension over future Mormon expansion was inherent in the
+arrangement. Conflict also increased at church headquarters in Kirtland . In seeking to establish a
+sacral society directed by prophetic leadership, JS crossed conventional boundaries between
+religious and secular affairs. For him, God’s commandments made no distinction between the spiritual
+and the temporal. 5 Doctrine and Covenants of the Church of the Latter Day Saints: Carefully
+Selected from the Revelations of God. Compiled by Joseph Smith, Oliver Cowdery, Sidney Rigdon, and
+Frederick G. Williams. Kirtland, OH: F. G. Williams, 1835. Also available in Robin Scott Jensen,
+Richard E. Turley Jr., Riley M. Lorimer, eds., Revelations and Translations, Volume 2: Published
+Revelations. Vol. 2 of the Revelations and Translations series of The Joseph Smith Papers, edited by
+Dean C. Jessee, Ronald K. Esplin, and Richard Lyman Bushman (Salt Lake City: Church Historian’s
+Press, 2011). Subjecting oneself to a religious leader’s direction in temporal matters clashed with
+American ideals of unfettered individual freedom. As the Mormon population of Kirtland continued to
+grow, JS and his associates conceived expansive plans for that community. A pivotal element was a
+bank, which could help provide capital for development. Though they were unable to obtain a state
+charter—an ultimately fatal flaw—they nevertheless established a financial institution in January
+1837. The “Kirtland Safety Society” faltered early, due in part to negative publicity, the refusal
+of many area banks to accept Safety Society notes, and the predatory actions of outsiders who
+systematically acquired its notes and quickly demanded payment in specie, thus depleting its
+reserves. The Safety Society suspended such payments in late January, then failed several months
+later during the recession that gripped the United States . 6 Adams, Dale W. “ Chartering the
+Kirtland Bank .” BYU Studies 23 (Fall 1983): 467–482. Backman, Milton V., Jr. The Heavens Resound: A
+History of the Latter-day Saints in Ohio, 1830–1838. Salt Lake City: Deseret Book, 1983. Naked
+Truths about Mormonism: Also a Journal for Important, Newly Apprehended Truths, and Miscellany.
+Oakland, CA. Jan. and Apr. 1888. Stresses related to the bank failure, mounting personal debt of
+Kirtland Mormons, and church indebtedness due to construction of the House of the Lord caused some
+to question the scope and legitimacy of JS’s prophetic leadership. Some of JS’s closest associates
+became disaffected. Prominent among the dissenters were JS’s former secretary Warren Parrish ,
+several apostles, a number of the members of the Quorum of the Seventy, and the Three Witnesses to
+the Book of Mormon plates. Their discontent escalated from dismay with JS’s financial leadership to
+rejection of his religious leadership. 7 Esplin, Ronald K. “The Emergence of Brigham Young and the
+Twelve to Mormon Leadership, 1830–1841.” PhD diss., Brigham Young University, 1981. Also available
+as The Emergence of Brigham Young and the Twelve to Mormon Leadership, 1830–1841, Dissertations in
+Latter-day Saint History (Provo, UT: Joseph Fielding Smith Institute for Latter-day Saint History;
+BYU Studies, 2006). Such views eventually spread to nearly one-third of the church’s general
+leadership and over ten percent of the local church membership in Ohio . Declaring JS a fallen
+prophet, Parrish and others attempted to establish a church of their own and to take control of the
+House of the Lord . 8 Backman, Milton V., Jr. The Heavens Resound: A History of the Latter-day
+Saints in Ohio, 1830–1838. Salt Lake City: Deseret Book, 1983. Oliver Cowdery , saddled with
+crushing personal financial losses, privately disparaged JS. 9 Minute Book 2 / “The Conference
+Minutes and Record Book of Christ’s Church of Latter Day Saints,” 1838, 1842, 1844. CHL. Also
+available at josephsmithpapers.org. Cowdery, Oliver. Letterbook, 1833–1838. Huntington Library, San
+Marino, CA. Some dissidents sought to replace JS with David Whitmer as church president. 10
+Historian’s Office. “History of Brigham Young.” In Manuscript History of Brigham Young, ca.
+1856–1860, vol. 1, pp. 1–104. CHL. CR 100 150, box 1, fd. 1 . Frederick G. Williams clashed with JS
+over the Safety Society. 11 Williams, Frederick G. “ Frederick Granger Williams of the First
+Presidency of the Church .” BYU Studies 12 (Spring 1972): 243–261. Compounding JS’s problems was the
+antipathy of numerous non-Mormon residents of Kirtland and vicinity, some of whom used both the
+legal system and threats of violence to harass him and other Latter-day Saints. 12 Adams, Dale W.
+“Grandison Newell’s Obsession.” Journal of Mormon History 30 (Spring 2004): 159–188. In fall 1837,
+JS moved vigorously to reassert his authority as church president. At a conference in September, he
+and church leaders loyal to him disciplined dissidents in Ohio —including three apostles and a
+number of members of the Kirtland high council. Meanwhile, problems developed among church leaders
+in Missouri , where the high council, the bishopric, and apostles Thomas B. Marsh and David W.
+Patten decried unilateral actions by the Missouri presidency. Concern focused particularly on the
+management by counselors John Whitmer and William W. Phelps of the proceeds from the sale of
+property in Far West . 13 Minute Book 2 / “The Conference Minutes and Record Book of Christ’s Church
+of Latter Day Saints,” 1838, 1842, 1844. CHL. Also available at josephsmithpapers.org. Elders’
+Journal of the Church of Latter Day Saints. Kirtland, OH, Oct.–Nov. 1837; Far West, MO, July–Aug.
+1838. When Marsh traveled to Kirtland in summer 1837, he probably informed JS of these Missouri
+leadership issues. To underscore the importance of unity and to prepare the way for changes in
+Missouri leadership if they should be required, JS sent minutes of the September Kirtland conference
+to Missouri, along with a revelation, additional written counsel, and verbal instructions conveyed
+by Marsh and JS’s brother Hyrum Smith , an assistant counselor in the presidency. Soon after, JS and
+his loyal first counselor, Sidney Rigdon , traveled to Caldwell County , Missouri, where with Hyrum
+Smith they met with local church leaders in early November and reached what seemed to be a
+satisfactory resolution of most of the outstanding issues. At a conference the following day, the
+local presidency were retained after they made confessions in response to objections raised against
+them. However, the First Presidency underwent major changes. Frederick G. Williams , JS’s second
+counselor, was removed from office after considerable discussion and replaced with Hyrum Smith. The
+name of Oliver Cowdery , who earlier was placed next to JS in the presidency, was not even presented
+for approval on this occasion; thus he was silently displaced. 14 Minute Book 2 / “The Conference
+Minutes and Record Book of Christ’s Church of Latter Day Saints,” 1838, 1842, 1844. CHL. Also
+available at josephsmithpapers.org. After JS’s return to Kirtland, it became evident that unresolved
+issues in Missouri required further attention. An 1831 revelation had signaled that Kirtland would
+eventually yield to Missouri as the major gathering center for the Latter-day Saints. 15 Doctrine
+and Covenants of the Church of the Latter Day Saints: Carefully Selected from the Revelations of
+God. Compiled by Joseph Smith, Oliver Cowdery, Sidney Rigdon, and Frederick G. Williams. Kirtland,
+OH: F. G. Williams, 1835. Also available in Robin Scott Jensen, Richard E. Turley Jr., Riley M.
+Lorimer, eds., Revelations and Translations, Volume 2: Published Revelations. Vol. 2 of the
+Revelations and Translations series of The Joseph Smith Papers, edited by Dean C. Jessee, Ronald K.
+Esplin, and Richard Lyman Bushman (Salt Lake City: Church Historian’s Press, 2011). When
+arrangements were completed in late 1836 for Mormon settlement in Caldwell County , renewed
+large-scale migration of Mormons to Missouri became feasible. JS and the presidency had anticipated
+moving there earlier in 1836 to direct the resettlement of incoming converts, but the delay in
+establishing a permanent Missouri location and the entanglements of Kirtland kept them in Ohio . By
+late 1837, JS was planning to move as soon as possible. 16 Elders’ Journal of the Church of Latter
+Day Saints. Kirtland, OH, Oct.–Nov. 1837; Far West, MO, July–Aug. 1838. Threatened by dissidents and
+pursued by creditors, he learned in January 1838 of his impending arrest on a charge of illegal
+banking—quite likely a ruse devised by his opponents to drive him from Ohio. 17 Adams, Dale W.
+“Grandison Newell’s Obsession.” Journal of Mormon History 30 (Spring 2004): 159–188. Historian’s
+Office. Histories of the Twelve, 1856–1858, 1861. CHL. CR 100 93 . JS and Rigdon had already been
+found guilty of such a charge in October 1837, had been fined $1,000 each, and had an appeal
+pending. 18 Firmage, Edwin Brown, and Richard Collin Mangrum. Zion in the Courts: A Legal History of
+the Church of Jesus Christ of Latter-day Saints, 1830–1890. Urbana: University of Illinois Press,
+1988. On 12 January, a new revelation directed that JS and the presidency were to terminate their
+work in Kirtland “as soon as it is practicable” and move to Missouri. 19 Revelations Collection,
+1831–ca. 1844, 1847, 1861, ca. 1876. CHL. MS 4583 . JS and Rigdon left within a few hours and were
+joined soon afterward by their families. While JS was en route to Far West , his supporters there
+were working to root out dissent among local church leadership. Senior apostle Thomas B. Marsh and
+members of the Missouri high council conducted, in each of five settlements, meetings of church
+members in which the conduct of the Missouri presidency was reviewed. Marsh indicated that the
+meetings were conducted according to instructions from JS. The outcome of each meeting was that the
+leadership of the presidency—consisting of David Whitmer , William W. Phelps , and John Whitmer —was
+rejected. The Missouri high council and bishopric replaced the presidency with an interim presidency
+of Marsh and apostle David W. Patten , and soon afterward the high council excommunicated Phelps and
+John Whitmer. 20 Minute Book 2 / “The Conference Minutes and Record Book of Christ’s Church of
+Latter Day Saints,” 1838, 1842, 1844. CHL. Also available at josephsmithpapers.org. The reassertion
+of authority in Missouri under JS and those loyal to him was well under way when JS reached Far West
+on 14 March 1838. George W. Robinson , who was appointed the church’s general clerk and recorder in
+Ohio in September 1837, arrived in Far West on 28 March 1838, two weeks after JS, and was
+immediately pressed into service. Within a day or two of arriving, he began writing what would
+become the present journal. Robinson made his initial inscriptions in a general church record book
+that already included a roster of Latter-day Saints living in Caldwell County . He began writing on
+the first blank page following the previously inscribed roster. The journal Robinson kept for JS
+documents critical developments in the struggle of JS and the presidency to maintain leadership of
+the church and to fulfill ambitious plans for Zion in Missouri . It records their efforts to found
+settlements outside their headquarters and gathering center in Caldwell County during spring and
+summer 1838, as well as the first signs of the deterioration of that effort. The journal is
+primarily a documentary record. Several key developments are depicted only by documents copied into
+the record without narrative ligatures. The journal entries only occasionally provide insights into
+intentions, perceptions, evaluations, and feelings. When they do so, Robinson ’s perspective is
+usually represented. In the journal entries, Robinson refers to JS in the third person and to
+himself in the first. Thus references to “I” or “myself” in the journal entries usually indicate
+Robinson rather than JS. The journal opens with a brief retrospective account, apparently dictated
+by JS, of his arrival in Far West on 14 March 1838. Then follows a copy of a motto recently composed
+by JS and signed by JS, Robinson , and a half-dozen prominent Latter-day Saints. The motto reflected
+JS’s experiences with dissent and persecution in Kirtland and signaled his determination to
+vigorously assert the Latter-day Saints’ right to establish themselves in Missouri and to pursue
+their goals without harassment. JS’s letter of 29 March 1838, copied on pages 23–26 of the journal,
+indicates that the motto was already inscribed in the journal by that date. Following the motto are
+two sets of questions and answers about the book of Isaiah. A series of transcripts or summaries of
+eight documents follows. These materials relate to a seven-month series of events that culminated in
+the 12–13 April 1838 excommunications of Oliver Cowdery and David Whitmer . As indicated by the date
+on the title page of the journal, 12 April 1838, Robinson apparently began transcribing these
+documents and entries on the same day that Cowdery was excommunicated. Cowdery’s trial seems to have
+been the motivating factor for transcribing this set of documents and creating an ongoing record
+with its own identity. These documents include minutes, instructions, and revelations originally
+written in Ohio as early as 3 September 1837; minutes of a conference in which Brigham Young joined
+Thomas B. Marsh and David W. Patten as “Presidents Pro. Tem” of the church in Missouri ; and terse
+synopses of the excommunication proceedings. In stark contrast to the frank evaluations of key
+leaders that JS dictated for his earliest journal, the present journal’s businesslike documentary
+treatment yields little insight into the interpersonal dynamics of their estrangement or the impact
+that severing ties to former close associates had on JS. Robinson also copied a letter from a
+Missouri landholder offering property at De Witt , Carroll County, to JS as a strategic site for
+control of commerce in the region. A purchase was eventually consummated, and Latter-day Saints
+settled there, angering those Missourians who objected to Mormon settlement outside Caldwell County
+. Following copies of brief personal revelations that JS dictated for apostles David W. Patten and
+Brigham Young in mid-April 1838, Robinson recorded JS’s 26 April 1838 revelation mandating the
+continued growth of Far West , the construction of a temple there, and the establishment of
+Latter-day Saint settlements in that vicinity. The revelation sanctioned the name for the church
+that JS and others had recently begun to use: the Church of Jesus Christ of Latter Day Saints. After
+inscribing this substantial body of recapitulations and copied documents, Robinson recorded daily
+journal entries, beginning with an entry for 27 April 1838. By this point, Robinson was serving as a
+scribe to the First Presidency, and the journal focused not only on JS but also on Sidney Rigdon
+(Robinson’s father-in-law) and Hyrum Smith , both counselors in the church presidency. Frequently,
+but not consistently, the scribe accompanied JS and the presidency on trips away from Far West .
+However, since the record book was large, Robinson likely did not carry it with him on every
+occasion, and a number of entries may not have been recorded until several days later. The first day
+of Robinson ’s regular journal entries, 27 April, was the same day JS, Rigdon , and Robinson started
+JS’s history. Thus a promising record-keeping routine began to be established, which lasted for six
+weeks. Entries for the first three weeks document a brief interlude of settled existence in Far West
+, with JS and his counselors collaborating on the history, studying grammar, and attending meetings,
+and JS working his garden. However, the presidency was soon on the move again. After receiving word
+of a sizable migration of Latter-day Saints to Missouri , they left Far West for Daviess County in
+mid-May to select and survey lands for future arrivals. JS’s labors in the north were punctuated by
+brief visits home, during one of which Emma Smith gave birth to their son Alexander . Settling in
+sparsely settled Daviess County offered incoming Latter-day Saints, many of whom were poor, a place
+to live while neither buying nor renting. As squatters on United States government land, heads of
+households could apply for preemption rights (first right of purchase) on up to 160 acres of land
+that they occupied, pending completion of official government land surveys. Applicants were not
+required—or even allowed—to pay the government for the land until after the surveys were completed.
+Then, to acquire title to the property, they were to pay the relatively low price of $1.25 per acre
+prior to an announced date, after which their property would otherwise be offered for sale to the
+general public, along with the unclaimed land in the surveyed area. The selection and private
+surveying of Daviess County land by JS and his colleagues provided the basis for orderly and
+relatively compact settlement coordinated by church officials. 21 Walker, Jeffrey N. “Mormon Land
+Rights in Caldwell and Daviess Counties and the Mormon Conflict of 1838: New Findings and New
+Understandings.” Paper presented at the annual meeting of the Mormon History Association, Salt Lake
+City, 24–27 May 2007. Settling in Caldwell County , by contrast, involved more conventional
+purchases. Government surveys were already completed for that county, and government land was
+already being sold. The pattern of record keeping became more varied after the presidency and their
+scribe traveled to Daviess County in early June. Robinson ’s daily entries lapsed as the Mormons
+laid out a city plot for a Latter-day Saint settlement at Adam-ondi-Ahman , began building homes,
+and organized a stake. They persisted in creating the new settlement despite their Missouri
+neighbors’ earlier attempt to frighten the area’s first Mormon settlers into leaving Daviess County.
+22 Gentry, Leland Homer. “A History of the Latter-day Saints in Northern Missouri from 1836 to
+1839.” PhD diss., Brigham Young University, 1965. Also available as A History of the Latter-day
+Saints in Northern Missouri from 1836 to 1839, Dissertations in Latter-day Saint History (Provo, UT:
+Joseph Fielding Smith Institute for Latter-day Saint History; BYU Studies, 2000). Baugh, Alexander
+L. “A Call to Arms: The 1838 Mormon Defense of Northern Missouri.” PhD diss., Brigham Young
+University, 1996. Also available as A Call to Arms: The 1838 Mormon Defense of Northern Missouri,
+Dissertations in Latter-day Saint History (Provo, UT: Joseph Fielding Smith Institute for Latter-day
+Saint History; BYU Studies, 2000). Meanwhile, tensions continued between JS and the majority who
+supported him on the one hand and prominent excommunicants who remained in Caldwell County after
+being expelled from the church on the other. JS and Rigdon came to feel that peace and harmony among
+the Latter-day Saints—essential if they were to succeed in establishing Zion in Missouri —was
+impossible as long as these individuals remained among them. After Rigdon denounced these former
+leaders in a sermon in mid-June, 23 Peck, Reed. Letter, Quincy, IL, to “Dear Friends,” 18 Sept.
+1839. Huntington Library, San Marino, CA. Corrill, John. A Brief History of the Church of Christ of
+Latter Day Saints, (Commonly Called Mormons;) Including an Account of Their Doctrine and Discipline;
+with the Reasons of the Author for Leaving the Church. St. Louis: By the author, 1839. they were
+threatened with violence, and several of them left the county. Active in compelling their departure
+was a new volunteer paramilitary organization of Mormon men called the Danites, of which Robinson
+was an officer. The Danites sought to rid the church of dissent, to ensure the fulfillment of church
+leaders’ directives, and later to help combat external threats against the Saints. Although Robinson
+’s journal keeping for JS lapsed for most of June and July, he did note significant developments in
+three early July entries consisting primarily of copied correspondence and revelations. He wrote an
+entry for 4 July, when Sidney Rigdon ’s oration at the Mormons’ celebration of Independence Day at
+Far West signaled their intentions to expand beyond the confines of Caldwell County and warned that
+they would not countenance persecution. 24 Oration Delivered by Mr. S. Rigdon, on the 4th of July,
+1838. Far West, MO: Journal Office, 1838. Also available in Peter Crawley, “ Two Rare Missouri
+Documents ,” BYU Studies 14 (Summer 1974): 502–527. The entry for 6 July is a copy of a letter
+received that day from Heber C. Kimball and Orson Hyde , en route to Far West after completion of
+their mission to the British Isles. It is followed by Robinson’s transcription of a letter from JS’s
+brother Don Carlos Smith reporting the circumstances of members of the extended Smith family moving
+together from Kirtland to Far West. At least six of the eight revelations recorded at that point in
+the journal were read to a church congregation at Far West on 8 July. Three dated 12 January 1838,
+the day that JS left Kirtland for Far West, focused on the church presidency, reinforcing their
+authority, establishing stringent requirements for any attempts to discipline them, and directing
+them to leave Kirtland and move to Missouri as soon as possible. Five more revelations, all dated 8
+July, provided directions for the reorganization of the Quorum of Twelve and a proselytizing mission
+that they were to undertake in Europe, called for tithing to be instituted in the church, and gave
+instructions for several church leaders and former leaders. Between the January revelations and the
+July revelations, Robinson recorded a brief synopsis, from a millenarian perspective, of
+contemporary developments affecting the church in Missouri, including consequences of the expulsion
+of dissidents in June and the influx of numerous Latter-day Saint settlers to northwestern Missouri.
+Robinson did not resume regular journal entries until 26 July. From that point, his journal keeping
+was relatively consistent through 10 September, when the journal ends. These entries show that
+expansion beyond Caldwell County —an integral part of Mormon plans—came at a price. Mormon
+immigrants from Canada were assigned to settle in Daviess County during summer 1838, and on 6 July,
+“Kirtland Camp,” the largest single group of Saints to leave Kirtland for Missouri , began their
+laborious trek. 25 Tyler, Samuel D. Journal, July–Oct. 1838. CHL. MS 1761 . Their arrival made it
+evident to the Mormons’ neighbors in Daviess County that within a few months the Mormons would
+outnumber other citizens. Meanwhile, in late July, Carroll County residents pressed the Saints to
+leave De Witt . Further growth of Mormon numbers and influence was unthinkable for many residents of
+northwestern Missouri. On election day, 6 August, William Peniston , a candidate for the state
+legislature, mounted a whiskey barrel at the village square at Gallatin , Daviess County, to
+persuade a crowd of men to prevent the Latter-day Saints from voting. A brawl ensued, and at Far
+West , JS heard from an otherwise credible non-Mormon source that the corpses of Latter-day Saint
+casualties were being withheld from church members in Daviess County , a report later proved false.
+26 Hartley, William G. My Best for the Kingdom: History and Autobiography of John Lowe Butler, a
+Mormon Frontiersman. Salt Lake City: Aspen Books, 1993. JS accompanied a body of armed men to
+Daviess County to recover the bodies for burial but learned at Adam-ondi-Ahman that, despite
+multiple injuries, there were no fatalities on either side. There they also heard a rumor that local
+justice of the peace Adam Black was raising a mob to avenge blows the Mormons had landed in the
+Gallatin fracas. JS and his associates, now including prominent Adam-ondi-Ahman resident Lyman Wight
+, visited the home of Black, who a year earlier had warned Latter-day Saints to leave the county.
+The Mormons found no mob but obtained a signed commitment from Black that the rights of Latter-day
+Saints would be protected. The following day, a delegation of prominent Daviess County citizens met
+with JS, Wight, and other Latter-day Saints at Adam-ondi-Ahman, where both sides exchanged pledges
+to avoid injuring the other and to settle any disputes through legal channels. 27 Baugh, Alexander
+L. “A Call to Arms: The 1838 Mormon Defense of Northern Missouri.” PhD diss., Brigham Young
+University, 1996. Also available as A Call to Arms: The 1838 Mormon Defense of Northern Missouri,
+Dissertations in Latter-day Saint History (Provo, UT: Joseph Fielding Smith Institute for Latter-day
+Saint History; BYU Studies, 2000). In violation of these commitments, Black and Peniston used an
+embellished account of the encounter at Black’s home to mobilize both legal and vigilante action
+against the Mormons. Peniston traveled with others to Richmond , Ray County, to recruit volunteers
+to help protect the old settlers of Daviess County . While there, Peniston showed local citizens an
+affidavit from Black claiming that the Mormon party that visited his house had threatened him with
+immediate death if he refused to sign their agreement. 28 Missouri Republican. St. Louis. 1822–1919.
+Peniston filed a complaint with Austin A. King , judge of the Fifth Judicial Circuit Court of
+Missouri . King’s jurisdiction included both Caldwell and Daviess counties, as well as Ray , Clay ,
+Carroll, Clinton, and Livingston counties. King issued a warrant for the arrest of JS and Lyman
+Wight . 29 Peniston, William. Affidavit, Ray Co., MO, 10 Aug. 1838. Private possession. Copy in CHL.
+Missouri, State of. Warrant for Joseph Smith and Lyman Wight, Ray Co., MO, 10 Aug. 1838. Private
+possession. Copy in CHL. Then Black, Peniston, and their allies fanned out to recruit volunteers
+from additional counties. After Black’s visit to Livingston County, Missouri newspapers spread
+claims that Mormons had threatened additional Daviess County settlers, destroyed crops, and perhaps
+even murdered Peniston and other prominent residents. 30 Missouri Argus. St. Louis. 1835–1841. Some
+counties, such as Ray and Chariton , responded by sending investigative committees. 31 Niles’
+National Register. Washington DC, 1837–1839; Baltimore, 1839–1848; Philadelphia, 1848–1849. When JS
+and Wight were not arrested as anticipated, Peniston and other members of a Daviess County
+“Committee of Vigilance” again agitated throughout northwestern Missouri for volunteers to gather to
+Daviess County—this time to drive the Latter-day Saints out of the county. 32 Hannibal Commercial
+Advertiser. Hannibal, MO. 1837–1839. Black ’s assertion that JS and other Latter-day Saints had
+threatened his life, coupled with a new claim that JS and Wight were resisting arrest, confirmed
+Missourians’ fears that the Latter-day Saints considered themselves above the law. Many Missourians
+concluded that they should take the law into their own hands. 33 LeSueur, Stephen C. The 1838 Mormon
+War in Missouri. Columbia: University of Missouri Press, 1987. The vigilantes called for men from
+other counties to come armed to Daviess County on 7 September in preparation for an 8 September
+offensive against the Mormons. In hopes of heading off confrontation and to counter the notion that
+they would not be subject to the law, JS and Wight submitted to arrest and attended a preliminary
+hearing on a charge of riot. On 7 September 1838, when JS appeared at the hearing, he was greeted by
+the anti-Mormons who had gathered in Daviess County . Judge King heard testimony and bound JS and
+Wight over for trial, but the anti-Mormon vigilantes were not pacified. 34 LeSueur, Stephen C. The
+1838 Mormon War in Missouri. Columbia: University of Missouri Press, 1987. The assault originally
+scheduled to begin on 8 September was merely postponed for two days while the vigilantes arranged
+with sympathizers in Ray County to deliver a stockpile of rifles on 9 September. As the present
+journal was coming to a close, Mormon companies of Caldwell County militia headed for Daviess County
+to protect the Latter-day Saints residing there. Another Mormon militia unit intercepted the
+shipment of weapons from Ray County, foiling plans for the offensive. After the vigilantes’ plan was
+thwarted, they confined their efforts for a time to terrorizing outlying Mormon homes; in response,
+Latter-day Saint militia from Far West entered Daviess County. In mid-September, state militia
+intervened. Mormon and non-Mormon groups from outside Daviess County were sent home, and crisis, for
+the moment, was averted. 35 Mormon War Papers, 1838–1841. MSA. LeSueur, Stephen C. The 1838 Mormon
+War in Missouri. Columbia: University of Missouri Press, 1987. Footnotes [1] Minute Book 1, 2 Apr.
+1836 ; JS, Journal, 2 Apr. 1836 . Minute Book 1 / “Conference A,” 1832–1837. CHL. Also available at
+josephsmithpapers.org. [2] “Public Meeting,” LDS Messenger and Advocate, Aug. 1836, 2:353–355;
+Stokes, “Wilson Letters,” 504–509. Latter Day Saints’ Messenger and Advocate. Kirtland, OH. Oct.
+1834–Sept. 1837. Stokes, Durward T., ed. “The Wilson Letters, 1835–1849.” Missouri Historical Review
+60, no. 4 (July 1966): 495–517. [3] An Act to Organize the Counties of Caldwell and Daviess [29 Dec.
+1836], Laws of the State of Missouri [1836], 46–47; History of Caldwell and Livingston Counties,
+103–105; Riggs, “Economic Impact of Fort Leavenworth,” 129. An Act to Organize the Counties of
+Caldwell and Daviess [29 Dec. 1836], Laws of the State of Missouri [1836], 46–47 History of Caldwell
+and Livingston Counties, Missouri, Written and Compiled from the Most Authentic Official and Private
+Sources. . . . St. Louis: National Historical Co., 1886. Riggs, Michael S. “The Economic Impact of
+Fort Leavenworth on Northwestern Missouri, 1827–1838. Yet Another Reason for the Mormon War?” In
+Restoration Studies IV: A Collection of Essays about the History, Beliefs, and Practices of the
+Reorganized Church of Jesus Christ of Latter Day Saints, edited by Marjorie B. Troeh and Eileen M.
+Terril, 124–133. Independence, MO: Herald Publishing House, 1988. [4] “The Mormons in Carroll
+County,” Missouri Republican, 18 Aug. 1838, [2], daily edition; “Mormonism,” Kansas City Daily
+Journal, 12 June 1881, 1; Willard Snow, Petition for redress, no date, Library of Congress
+Collection, National Archives, Washington DC. Missouri Republican. St. Louis. 1822–1919. Kansas City
+Daily Journal. Kansas City, MO. 1878–1891. Library of Congress Collection. National Archives,
+Washington DC. Redress petitions from this collection are also available in Clark V. Johnson, ed.,
+Mormon Redress Petitions: Documents of the 1833–1838 Missouri Conflict, Religious Studies Center
+Monograph Series 16 (Provo, UT: Religious Studies Center, Brigham Young University, 1992). [5]
+Revelation, Sept. 1830–A , in Doctrine and Covenants 10:9, 1835 ed. [D&C 29:34–35]. Doctrine and
+Covenants of the Church of the Latter Day Saints: Carefully Selected from the Revelations of God.
+Compiled by Joseph Smith, Oliver Cowdery, Sidney Rigdon, and Frederick G. Williams. Kirtland, OH: F.
+G. Williams, 1835. Also available in Robin Scott Jensen, Richard E. Turley Jr., Riley M. Lorimer,
+eds., Revelations and Translations, Volume 2: Published Revelations. Vol. 2 of the Revelations and
+Translations series of The Joseph Smith Papers, edited by Dean C. Jessee, Ronald K. Esplin, and
+Richard Lyman Bushman (Salt Lake City: Church Historian’s Press, 2011). [6] Adams, “ Chartering the
+Kirtland Bank ,” 467–482; Backman, Heavens Resound, 314–321; “James Thompson’s Statement,” in Naked
+Truths about Mormonism, Apr. 1888, 3. Adams, Dale W. “ Chartering the Kirtland Bank .” BYU Studies
+23 (Fall 1983): 467–482. Backman, Milton V., Jr. The Heavens Resound: A History of the Latter-day
+Saints in Ohio, 1830–1838. Salt Lake City: Deseret Book, 1983. Naked Truths about Mormonism: Also a
+Journal for Important, Newly Apprehended Truths, and Miscellany. Oakland, CA. Jan. and Apr. 1888.
+[7] Esplin, “Emergence of Brigham Young,” chaps. 5–6. Esplin, Ronald K. “The Emergence of Brigham
+Young and the Twelve to Mormon Leadership, 1830–1841.” PhD diss., Brigham Young University, 1981.
+Also available as The Emergence of Brigham Young and the Twelve to Mormon Leadership, 1830–1841,
+Dissertations in Latter-day Saint History (Provo, UT: Joseph Fielding Smith Institute for Latter-day
+Saint History; BYU Studies, 2006). [8] Backman, Heavens Resound, 323–329, 437n68. Backman, Milton
+V., Jr. The Heavens Resound: A History of the Latter-day Saints in Ohio, 1830–1838. Salt Lake City:
+Deseret Book, 1983. [9] Minute Book 2, 12 Apr. 1838 ; Oliver Cowdery, Far West, MO, to Warren
+Cowdery, [Kirtland, OH], 21 Jan. 1838, in Cowdery, Letterbook, 80–83. Minute Book 2 / “The
+Conference Minutes and Record Book of Christ’s Church of Latter Day Saints,” 1838, 1842, 1844. CHL.
+Also available at josephsmithpapers.org. Cowdery, Oliver. Letterbook, 1833–1838. Huntington Library,
+San Marino, CA. [10] Historian’s Office, “History of Brigham Young,” 15. Historian’s Office.
+“History of Brigham Young.” In Manuscript History of Brigham Young, ca. 1856–1860, vol. 1, pp.
+1–104. CHL. CR 100 150, box 1, fd. 1 . [11] Williams, “ Frederick Granger Williams ,” 254–256.
+Williams, Frederick G. “ Frederick Granger Williams of the First Presidency of the Church .” BYU
+Studies 12 (Spring 1972): 243–261. [12] Adams, “Grandison Newell’s Obsession” 168–188. Adams, Dale
+W. “Grandison Newell’s Obsession.” Journal of Mormon History 30 (Spring 2004): 159–188. [13] Minute
+Book 2, 3 and 5–7 Apr. 1837 ; Thomas B. Marsh, [Far West, MO], to Wilford Woodruff, [Vinalhaven,
+ME], 1838, Elders’ Journal, July 1838, 37–38. Missouri church president David Whitmer spent most of
+1836 and 1837 in Kirtland . Minute Book 2 / “The Conference Minutes and Record Book of Christ’s
+Church of Latter Day Saints,” 1838, 1842, 1844. CHL. Also available at josephsmithpapers.org.
+Elders’ Journal of the Church of Latter Day Saints. Kirtland, OH, Oct.–Nov. 1837; Far West, MO,
+July–Aug. 1838. [14] Minute Book 2, 6 and 7 Nov. 1837 . Minute Book 2 / “The Conference Minutes and
+Record Book of Christ’s Church of Latter Day Saints,” 1838, 1842, 1844. CHL. Also available at
+josephsmithpapers.org. [15] Revelation, 11 Sept. 1831 , in Doctrine and Covenants 21:4, 1835 ed.
+[D&C 64:21–22]. Doctrine and Covenants of the Church of the Latter Day Saints: Carefully Selected
+from the Revelations of God. Compiled by Joseph Smith, Oliver Cowdery, Sidney Rigdon, and Frederick
+G. Williams. Kirtland, OH: F. G. Williams, 1835. Also available in Robin Scott Jensen, Richard E.
+Turley Jr., Riley M. Lorimer, eds., Revelations and Translations, Volume 2: Published Revelations.
+Vol. 2 of the Revelations and Translations series of The Joseph Smith Papers, edited by Dean C.
+Jessee, Ronald K. Esplin, and Richard Lyman Bushman (Salt Lake City: Church Historian’s Press,
+2011). [16] [JS], Editorial, Elders’ Journal, Nov. 1837, 28. Elders’ Journal of the Church of Latter
+Day Saints. Kirtland, OH, Oct.–Nov. 1837; Far West, MO, July–Aug. 1838. [17] Adams, “Grandison
+Newell’s Obsession”; Historian’s Office, “History of Luke Johnson,” 6, Histories of the Twelve, ca.
+1858–1880, CHL. Adams, Dale W. “Grandison Newell’s Obsession.” Journal of Mormon History 30 (Spring
+2004): 159–188. Historian’s Office. Histories of the Twelve, 1856–1858, 1861. CHL. CR 100 93 . [18]
+Firmage and Mangrum, Zion in the Courts, 56–57. Firmage, Edwin Brown, and Richard Collin Mangrum.
+Zion in the Courts: A Legal History of the Church of Jesus Christ of Latter-day Saints, 1830–1890.
+Urbana: University of Illinois Press, 1988. [19] Revelation, 12 Jan. 1838–C , in Revelations
+Collection, CHL; see also JS, Journal, 8 July 1838 . Revelations Collection, 1831–ca. 1844, 1847,
+1861, ca. 1876. CHL. MS 4583 . [20] Minute Book 2, 5 – 10 Feb. and 10 Mar. 1838 . Minute Book 2 /
+“The Conference Minutes and Record Book of Christ’s Church of Latter Day Saints,” 1838, 1842, 1844.
+CHL. Also available at josephsmithpapers.org. [21] Walker, “Mormon Land Rights.” Walker, Jeffrey N.
+“Mormon Land Rights in Caldwell and Daviess Counties and the Mormon Conflict of 1838: New Findings
+and New Understandings.” Paper presented at the annual meeting of the Mormon History Association,
+Salt Lake City, 24–27 May 2007. [22] Gentry, “Latter-day Saints in Northern Missouri,” 153–156;
+Baugh, “Call to Arms,” 106. Gentry, Leland Homer. “A History of the Latter-day Saints in Northern
+Missouri from 1836 to 1839.” PhD diss., Brigham Young University, 1965. Also available as A History
+of the Latter-day Saints in Northern Missouri from 1836 to 1839, Dissertations in Latter-day Saint
+History (Provo, UT: Joseph Fielding Smith Institute for Latter-day Saint History; BYU Studies,
+2000). Baugh, Alexander L. “A Call to Arms: The 1838 Mormon Defense of Northern Missouri.” PhD
+diss., Brigham Young University, 1996. Also available as A Call to Arms: The 1838 Mormon Defense of
+Northern Missouri, Dissertations in Latter-day Saint History (Provo, UT: Joseph Fielding Smith
+Institute for Latter-day Saint History; BYU Studies, 2000). [23] Reed Peck, Quincy, IL, to “Dear
+Friends,” 18 Sept. 1839, pp. 23–25, Henry E. Huntington Library, San Marino, CA; Corrill, Brief
+History, 30 . Peck, Reed. Letter, Quincy, IL, to “Dear Friends,” 18 Sept. 1839. Huntington Library,
+San Marino, CA. Corrill, John. A Brief History of the Church of Christ of Latter Day Saints,
+(Commonly Called Mormons;) Including an Account of Their Doctrine and Discipline; with the Reasons
+of the Author for Leaving the Church. St. Louis: By the author, 1839. [24] Oration Delivered by Mr.
+S. Rigdon, 12. Oration Delivered by Mr. S. Rigdon, on the 4th of July, 1838. Far West, MO: Journal
+Office, 1838. Also available in Peter Crawley, “ Two Rare Missouri Documents ,” BYU Studies 14
+(Summer 1974): 502–527. [25] Tyler, “Daily Journal,” 6 July 1838. Tyler, Samuel D. Journal,
+July–Oct. 1838. CHL. MS 1761 . [26] Hartley, My Best for the Kingdom, chap. 6. Hartley, William G.
+My Best for the Kingdom: History and Autobiography of John Lowe Butler, a Mormon Frontiersman. Salt
+Lake City: Aspen Books, 1993. [27] Baugh, “Call to Arms,” 103–111. Baugh, Alexander L. “A Call to
+Arms: The 1838 Mormon Defense of Northern Missouri.” PhD diss., Brigham Young University, 1996. Also
+available as A Call to Arms: The 1838 Mormon Defense of Northern Missouri, Dissertations in
+Latter-day Saint History (Provo, UT: Joseph Fielding Smith Institute for Latter-day Saint History;
+BYU Studies, 2000). [28] “Public Meeting,” Missouri Republican, 8 Sept. 1838, [1], “for the country”
+edition. Missouri Republican. St. Louis. 1822–1919. [29] William Peniston, Affidavit, Ray Co., MO,
+10 Aug. 1838, private possession, copy in CHL; State of Missouri, Warrant for JS and Lyman Wight,
+Ray Co., MO, 10 Aug. 1838, private possession, copy in CHL. Peniston, William. Affidavit, Ray Co.,
+MO, 10 Aug. 1838. Private possession. Copy in CHL. Missouri, State of. Warrant for Joseph Smith and
+Lyman Wight, Ray Co., MO, 10 Aug. 1838. Private possession. Copy in CHL. [30] See, for example, “The
+Mormons,” Missouri Argus, 6 Sept. 1838, [1]. Missouri Argus. St. Louis. 1835–1841. [31] JS, Journal,
+11 Aug. 1838 ; “The Mormon Difficulties,” Niles’ National Register, 13 Oct. 1838, 103. Niles’
+National Register. Washington DC, 1837–1839; Baltimore, 1839–1848; Philadelphia, 1848–1849. [32]
+“Mormons Once More,” Hannibal Commercial Advertiser, 25 Sept. 1838, [1]. Hannibal Commercial
+Advertiser. Hannibal, MO. 1837–1839. [33] LeSueur, 1838 Mormon War in Missouri, 70. LeSueur, Stephen
+C. The 1838 Mormon War in Missouri. Columbia: University of Missouri Press, 1987. [34] LeSueur, 1838
+Mormon War in Missouri, 77–83. LeSueur, Stephen C. The 1838 Mormon War in Missouri. Columbia:
+University of Missouri Press, 1987. [35] David R. Atchison, Grand River, MO, to Lilburn W. Boggs,
+Jefferson City, MO, 17 Sept. 1838, Mormon War Papers, MSA; LeSueur, 1838 Mormon War in Missouri,
+87–89, 96–97. Mormon War Papers, 1838–1841. MSA. LeSueur, Stephen C. The 1838 Mormon War in
+Missouri. Columbia: University of Missouri Press, 1987. Additional Versions Additional Versions
+Asterisk (*) denotes a "featured" version, which includes an introduction and annotation. *Letter
+from Don Carlos Smith, circa Late May 1838 *Revelation, 8 July 1838–D [D&C 120] *Revelation, 8 July
+1838–B *Revelation, 8 July 1838–C [D&C 119] *Revelation, 8 July 1838–A [D&C 118] *Revelation, 8 July
+1838–E [D&C 117] Go to previous page 27 Page 42 Go to next page 29 Hide editing marks the Council
+voted to authorize the 27 Aug. 1793–27 May 1840. Hatter. Born at Pittsfield, Berkshire Co.,
+Massachusetts. Son of William Partridge and Jemima Bidwell. Moved to Painesville, Geauga Co., Ohio.
+Married Lydia Clisbee, 22 Aug. 1819, at Painesville. Initially a Universal Restorationist... View
+Full Bio An ecclesiastical and priesthood office. JS appointed Edward Partridge as the first bishop
+in February 1831. Following this appointment, Partridge functioned as the local leader of the church
+in Missouri. Later revelations described a bishop’s duties as receiving... View Glossary , to give
+or to make over to Pres ts . Joseph Smith J r & Sidney Rigdon each an eighty of land, 105 situate
+adjacent to the city Corporation which land is the property of the Church. Also voted that a
+committee of three, be appointed, of the council, to con tract with said presidency to their
+sattisfaction, for their sevices, this present year, not for preaching or for receiving the word of
+God by revelation, neither for instructing the saints in richteousness, but for services rendered in
+the Printing establishment, in translating the words ancient records &c. &c. The Committee, which
+consisted of Geo. W. Harris , Elias Higbee & Simeon Carter , who agreed that Pres ts . Smith &
+Rigdon should be entitled to, & receive for this year [ blank ] as a just remuneration for their
+Services. 106 Comprehensive Works Cited Minute Book 2 / “The Conference Minutes and Record Book of
+Christ’s Church of Latter Day Saints,” 1838, 1842, 1844. CHL. Also available at
+josephsmithpapers.org. The Return. Davis City, IA, 1889–1891; Richmond, MO, 1892–1893; Davis City,
+1895–1896; Denver, 1898; Independence, MO, 1899–1900. 13 May 1838 • Sunday Sunday 13 th . Today Pres
+t R[eynolds] Cahoon (late Pres t of Kirtland ) delivered a discourse to the saints, in the former
+part of the day, and Pres t [Sidney] Rigdon , preached the funeral sermon of [Joseph] Swain Williams
+, son of F[rederick] G. Williams in the after part of the day. 14 May 1838 • Monday Monday 14 th
+Pres t. Smith spent this day in ploughing for, himself in his garden. Pres t [Sidney] Rigdon spent
+the day in correcting and prepareing matter for the press, 107 Minute Book 2 / “The Conference
+Minutes and Record Book of Christ’s Church of Latter Day Saints,” 1838, 1842, 1844. CHL. Also
+available at josephsmithpapers.org. and also <​spent a short time​> in Company with Elder Harlow
+Readfield [Redfield] , who arrived this day from Kirtland Ohio. And I have spent this day in helping
+Pres t smith, and also in writing, 18 May–1 June 1838 • Friday–Friday Friday 18 th To day Presidents
+J Smith Jr & S[idney] Rigdon and T[homas] B. Marsh D[avid] W. Patten Bishop E Partridg [Edward
+Partridge] E[lias] Higbee , S[imeon] Carter , A[lanson] Ripley , myself and many others, left Far
+West to visit the north countries for the purpose of Laying off stakes of Zion , making Locations &
+laying claims for the gathering of the saints for the benefit of the poor, and for the upbuilding of
+the Church of God, 108 Comprehensive Works Cited Minute Book 1 / “Conference A,” 1832–1837. CHL.
+Also available at josephsmithpapers.org. Elders’ Journal of the Church of Latter Day Saints.
+Kirtland, OH, Oct.–Nov. 1837; Far West, MO, July–Aug. 1838. Minute Book 2 / “The Conference Minutes
+and Record Book of Christ’s Church of Latter Day Saints,” 1838, 1842, 1844. CHL. Also available at
+josephsmithpapers.org. Cowdery, Oliver. Letterbook, 1833–1838. Huntington Library, San Marino, CA.
+Swartzell, William. Mormonism Exposed, Being a Journal of a Residence in Missouri from the 28th of
+May to the 20th of August, 1838, Together with an Appendix, Containing the Revelation concerning the
+Golden Bible, with Numerous Extracts from the ‘Book of Covenants,’ &c., &c. Pekin, OH: By the
+author, 1840. We traveled this day to the mouth of Honey Creek , which [p. 42] View entire
+transcript | Cite this page
+
+═══ REVELATION TEXT ═══
+
+In the after part of the day, Prest<​s.​> smith and Rigdon and myself, went to Wights. Ferry about a half mile from this place up the river, for the purpose of selecting and laying claims to city plott near said Ferry, in Davis [Daviess] County Township 60, Range 27 & 28, and Sections 25, 36, 31, 30, 
+which was called 
+Spring 
+Hill a name appropriated by the bretheren present, But after wards named by the mouth of [the] Lord and 
+was called Adam Ondi Awmen [Adam-ondi-Ahman], because said he it is the place where Adam shall come to visit his people, or the Ancient of days shall sit as spoken of by Daniel the Prophet,

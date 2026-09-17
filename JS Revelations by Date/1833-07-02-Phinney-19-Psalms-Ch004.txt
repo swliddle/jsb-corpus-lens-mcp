@@ -1,0 +1,27 @@
+════════════════════════════════════════════════════════════
+SOURCE: KJV public-domain text (Project Gutenberg #10) — PHINNEY-
+  PROXY per the ratified M-8 rule; upgradeable verbatim to a
+  digitized 1828 Phinney edition if one is obtained.
+BOOK: Psalms Chapter 4
+TRANSLATION SEGMENT: Old Testament resumed, 20 Jul 1832 – 2 Jul 1833
+DATED: 1833-07-02 (segment END date — the chapter existed for Joseph by
+  this date; he read but did not revise it in the New Translation)
+GENERATED: 2026-09-08 ERIC-AUTHORIZED MIGRATION (migrate_phinney_proxies.py)
+════════════════════════════════════════════════════════════
+
+1
+Hear me when I call, O God of my righteousness: thou hast enlarged me when I was in distress; have mercy upon me, and hear my prayer.
+2
+O ye sons of men, how long will ye turn my glory into shame? how long will ye love vanity, and seek after leasing? Selah.
+3
+But know that the LORD hath set apart him that is godly for himself: the LORD will hear when I call unto him.
+4
+Stand in awe, and sin not: commune with your own heart upon your bed, and be still. Selah.
+5
+Offer the sacrifices of righteousness, and put your trust in the LORD.
+6
+There be many that say, Who will shew us any good? LORD, lift thou up the light of thy countenance upon us.
+7
+Thou hast put gladness in my heart, more than in the time that their corn and their wine increased.
+8
+I will both lay me down in peace, and sleep: for thou, LORD, only makest me dwell in safety.

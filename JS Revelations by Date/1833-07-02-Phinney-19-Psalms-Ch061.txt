@@ -1,0 +1,27 @@
+════════════════════════════════════════════════════════════
+SOURCE: KJV public-domain text (Project Gutenberg #10) — PHINNEY-
+  PROXY per the ratified M-8 rule; upgradeable verbatim to a
+  digitized 1828 Phinney edition if one is obtained.
+BOOK: Psalms Chapter 61
+TRANSLATION SEGMENT: Old Testament resumed, 20 Jul 1832 – 2 Jul 1833
+DATED: 1833-07-02 (segment END date — the chapter existed for Joseph by
+  this date; he read but did not revise it in the New Translation)
+GENERATED: 2026-09-08 ERIC-AUTHORIZED MIGRATION (migrate_phinney_proxies.py)
+════════════════════════════════════════════════════════════
+
+1
+Hear my cry, O God; attend unto my prayer.
+2
+From the end of the earth will I cry unto thee, when my heart is overwhelmed: lead me to the rock that is higher than I.
+3
+For thou hast been a shelter for me, and a strong tower from the enemy.
+4
+I will abide in thy tabernacle for ever: I will trust in the covert of thy wings. Selah.
+5
+For thou, O God, hast heard my vows: thou hast given me the heritage of those that fear thy name.
+6
+Thou wilt prolong the king’s life: and his years as many generations.
+7
+He shall abide before God for ever: O prepare mercy and truth, which may preserve him.
+8
+So will I sing praise unto thy name for ever, that I may daily perform my vows.

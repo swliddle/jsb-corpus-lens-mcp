@@ -1,0 +1,27 @@
+════════════════════════════════════════════════════════════
+SOURCE: KJV public-domain text (Project Gutenberg #10) — PHINNEY-
+  PROXY per the ratified M-8 rule; upgradeable verbatim to a
+  digitized 1828 Phinney edition if one is obtained.
+BOOK: Psalms Chapter 121
+TRANSLATION SEGMENT: Old Testament resumed, 20 Jul 1832 – 2 Jul 1833
+DATED: 1833-07-02 (segment END date — the chapter existed for Joseph by
+  this date; he read but did not revise it in the New Translation)
+GENERATED: 2026-09-08 ERIC-AUTHORIZED MIGRATION (migrate_phinney_proxies.py)
+════════════════════════════════════════════════════════════
+
+1
+I will lift up mine eyes unto the hills, from whence cometh my help.
+2
+My help cometh from the LORD, which made heaven and earth.
+3
+He will not suffer thy foot to be moved: he that keepeth thee will not slumber.
+4
+Behold, he that keepeth Israel shall neither slumber nor sleep.
+5
+The LORD is thy keeper: the LORD is thy shade upon thy right hand.
+6
+The sun shall not smite thee by day, nor the moon by night.
+7
+The LORD shall preserve thee from all evil: he shall preserve thy soul.
+8
+The LORD shall preserve thy going out and thy coming in from this time forth, and even for evermore.

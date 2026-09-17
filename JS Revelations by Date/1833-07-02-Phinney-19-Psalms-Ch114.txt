@@ -1,0 +1,27 @@
+════════════════════════════════════════════════════════════
+SOURCE: KJV public-domain text (Project Gutenberg #10) — PHINNEY-
+  PROXY per the ratified M-8 rule; upgradeable verbatim to a
+  digitized 1828 Phinney edition if one is obtained.
+BOOK: Psalms Chapter 114
+TRANSLATION SEGMENT: Old Testament resumed, 20 Jul 1832 – 2 Jul 1833
+DATED: 1833-07-02 (segment END date — the chapter existed for Joseph by
+  this date; he read but did not revise it in the New Translation)
+GENERATED: 2026-09-08 ERIC-AUTHORIZED MIGRATION (migrate_phinney_proxies.py)
+════════════════════════════════════════════════════════════
+
+1
+When Israel went out of Egypt, the house of Jacob from a people of strange language;
+2
+Judah was his sanctuary, and Israel his dominion.
+3
+The sea saw it, and fled: Jordan was driven back.
+4
+The mountains skipped like rams, and the little hills like lambs.
+5
+What ailed thee, O thou sea, that thou fleddest? thou Jordan, that thou wast driven back?
+6
+Ye mountains, that ye skipped like rams; and ye little hills, like lambs?
+7
+Tremble, thou earth, at the presence of the Lord, at the presence of the God of Jacob;
+8
+Which turned the rock into a standing water, the flint into a fountain of waters.

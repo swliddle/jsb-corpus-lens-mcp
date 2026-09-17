@@ -1,0 +1,37 @@
+════════════════════════════════════════════════════════════
+SOURCE: KJV public-domain text (Project Gutenberg #10) — PHINNEY-
+  PROXY per the ratified M-8 rule; upgradeable verbatim to a
+  digitized 1828 Phinney edition if one is obtained.
+BOOK: Psalms Chapter 85
+TRANSLATION SEGMENT: Old Testament resumed, 20 Jul 1832 – 2 Jul 1833
+DATED: 1833-07-02 (segment END date — the chapter existed for Joseph by
+  this date; he read but did not revise it in the New Translation)
+GENERATED: 2026-09-08 ERIC-AUTHORIZED MIGRATION (migrate_phinney_proxies.py)
+════════════════════════════════════════════════════════════
+
+1
+Lord, thou hast been favourable unto thy land: thou hast brought back the captivity of Jacob.
+2
+Thou hast forgiven the iniquity of thy people, thou hast covered all their sin. Selah.
+3
+Thou hast taken away all thy wrath: thou hast turned thyself from the fierceness of thine anger.
+4
+Turn us, O God of our salvation, and cause thine anger toward us to cease.
+5
+Wilt thou be angry with us for ever? wilt thou draw out thine anger to all generations?
+6
+Wilt thou not revive us again: that thy people may rejoice in thee?
+7
+Shew us thy mercy, O LORD, and grant us thy salvation.
+8
+I will hear what God the LORD will speak: for he will speak peace unto his people, and to his saints: but let them not turn again to folly.
+9
+Surely his salvation is nigh them that fear him; that glory may dwell in our land.
+10
+Mercy and truth are met together; righteousness and peace have kissed each other.
+11
+Truth shall spring out of the earth; and righteousness shall look down from heaven.
+12
+Yea, the LORD shall give that which is good; and our land shall yield her increase.
+13
+Righteousness shall go before him; and shall set us in the way of his steps.

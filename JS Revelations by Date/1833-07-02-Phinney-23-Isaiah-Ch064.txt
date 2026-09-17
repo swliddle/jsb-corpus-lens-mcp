@@ -1,0 +1,31 @@
+════════════════════════════════════════════════════════════
+SOURCE: KJV public-domain text (Project Gutenberg #10) — PHINNEY-
+  PROXY per the ratified M-8 rule; upgradeable verbatim to a
+  digitized 1828 Phinney edition if one is obtained.
+BOOK: Isaiah Chapter 64
+TRANSLATION SEGMENT: Old Testament resumed, 20 Jul 1832 – 2 Jul 1833
+DATED: 1833-07-02 (segment END date — the chapter existed for Joseph by
+  this date; he read but did not revise it in the New Translation)
+GENERATED: 2026-09-08 ERIC-AUTHORIZED MIGRATION (migrate_phinney_proxies.py)
+════════════════════════════════════════════════════════════
+
+1
+Oh that thou wouldest rend the heavens, that thou wouldest come down, that the mountains might flow down at thy presence, 64:2 As when the melting fire burneth, the fire causeth the waters to boil, to make thy name known to thine adversaries, that the nations may tremble at thy presence! 64:3 When thou didst terrible things which we looked not for, thou camest down, the mountains flowed down at thy presence.
+4
+For since the beginning of the world men have not heard, nor perceived by the ear, neither hath the eye seen, O God, beside thee, what he hath prepared for him that waiteth for him.
+5
+Thou meetest him that rejoiceth and worketh righteousness, those that remember thee in thy ways: behold, thou art wroth; for we have sinned: in those is continuance, and we shall be saved.
+6
+But we are all as an unclean thing, and all our righteousnesses are as filthy rags; and we all do fade as a leaf; and our iniquities, like the wind, have taken us away.
+7
+And there is none that calleth upon thy name, that stirreth up himself to take hold of thee: for thou hast hid thy face from us, and hast consumed us, because of our iniquities.
+8
+But now, O LORD, thou art our father; we are the clay, and thou our potter; and we all are the work of thy hand.
+9
+Be not wroth very sore, O LORD, neither remember iniquity for ever: behold, see, we beseech thee, we are all thy people.
+10
+Thy holy cities are a wilderness, Zion is a wilderness, Jerusalem a desolation.
+11
+Our holy and our beautiful house, where our fathers praised thee, is burned up with fire: and all our pleasant things are laid waste.
+12
+Wilt thou refrain thyself for these things, O LORD? wilt thou hold thy peace, and afflict us very sore? 65:1 I am sought of them that asked not for me; I am found of them that sought me not: I said, Behold me, behold me, unto a nation that was not called by my name.

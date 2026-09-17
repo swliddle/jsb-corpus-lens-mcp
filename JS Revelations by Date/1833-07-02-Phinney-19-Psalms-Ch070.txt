@@ -1,0 +1,21 @@
+════════════════════════════════════════════════════════════
+SOURCE: KJV public-domain text (Project Gutenberg #10) — PHINNEY-
+  PROXY per the ratified M-8 rule; upgradeable verbatim to a
+  digitized 1828 Phinney edition if one is obtained.
+BOOK: Psalms Chapter 70
+TRANSLATION SEGMENT: Old Testament resumed, 20 Jul 1832 – 2 Jul 1833
+DATED: 1833-07-02 (segment END date — the chapter existed for Joseph by
+  this date; he read but did not revise it in the New Translation)
+GENERATED: 2026-09-08 ERIC-AUTHORIZED MIGRATION (migrate_phinney_proxies.py)
+════════════════════════════════════════════════════════════
+
+1
+Make haste, O God, to deliver me; make haste to help me, O Lord.
+2
+Let them be ashamed and confounded that seek after my soul: let them be turned backward, and put to confusion, that desire my hurt.
+3
+Let them be turned back for a reward of their shame that say, Aha, aha.
+4
+Let all those that seek thee rejoice and be glad in thee: and let such as love thy salvation say continually, Let God be magnified.
+5
+But I am poor and needy: make haste unto me, O God: thou art my help and my deliverer; O LORD, make no tarrying.

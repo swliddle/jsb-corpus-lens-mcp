@@ -1,0 +1,31 @@
+════════════════════════════════════════════════════════════
+SOURCE: KJV public-domain text (Project Gutenberg #10) — PHINNEY-
+  PROXY per the ratified M-8 rule; upgradeable verbatim to a
+  digitized 1828 Phinney edition if one is obtained.
+BOOK: Psalms Chapter 111
+TRANSLATION SEGMENT: Old Testament resumed, 20 Jul 1832 – 2 Jul 1833
+DATED: 1833-07-02 (segment END date — the chapter existed for Joseph by
+  this date; he read but did not revise it in the New Translation)
+GENERATED: 2026-09-08 ERIC-AUTHORIZED MIGRATION (migrate_phinney_proxies.py)
+════════════════════════════════════════════════════════════
+
+1
+Praise ye the LORD. I will praise the LORD with my whole heart, in the assembly of the upright, and in the congregation.
+2
+The works of the LORD are great, sought out of all them that have pleasure therein.
+3
+His work is honourable and glorious: and his righteousness endureth for ever.
+4
+He hath made his wonderful works to be remembered: the LORD is gracious and full of compassion.
+5
+He hath given meat unto them that fear him: he will ever be mindful of his covenant.
+6
+He hath shewed his people the power of his works, that he may give them the heritage of the heathen.
+7
+The works of his hands are verity and judgment; all his commandments are sure.
+8
+They stand fast for ever and ever, and are done in truth and uprightness.
+9
+He sent redemption unto his people: he hath commanded his covenant for ever: holy and reverend is his name.
+10
+The fear of the LORD is the beginning of wisdom: a good understanding have all they that do his commandments: his praise endureth for ever.
