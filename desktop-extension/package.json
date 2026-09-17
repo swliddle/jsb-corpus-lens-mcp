@@ -1,0 +1,7 @@
+{
+    "name": "corpus-lens-desktop-extension",
+    "version": "1.0.0",
+    "private": true,
+    "type": "commonjs",
+    "description": "Claude Desktop bridge to the corpus-lens MCP server. No dependencies."
+}

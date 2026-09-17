@@ -46,6 +46,7 @@ every edition as its own hit, for comparing variants.
       mcp/server.ts          tool registration
       mcp/http.ts            stateless Streamable HTTP at /mcp, GET /healthz
       main.ts                composition root
+    desktop-extension/       Claude Desktop extension (manifest + stdio→HTTP bridge)
 
 ## Run
 
@@ -82,6 +83,21 @@ every edition as its own hit, for comparing variants.
 ## Deploy
 
 Ubuntu + Apache + systemd: see [deploy/DEPLOY.md](deploy/DEPLOY.md).
+
+## Claude Desktop extension
+
+`desktop-extension/` is a Desktop Extension (`.mcpb`) for people who use the
+Claude Desktop app: a double-click install with a field for their token (kept in
+the OS keychain), no Node install and no JSON editing. Inside is a ~100-line,
+dependency-free bridge from stdio to this server's HTTP endpoint; it runs on the
+Node that ships with Claude Desktop.
+
+    npm run extension:pack        # → desktop-extension/corpus-lens.mcpb (git-ignored)
+
+Send people the `.mcpb`, `desktop-extension/INSTALL-FOR-USERS.md`, and — separately —
+their token. The server address is a setting with a default, so a URL change
+does not need a new file. Claude Code users don't need the extension:
+`claude mcp add --transport http … --header "Authorization: Bearer <token>"`.
 
 ## Test
 

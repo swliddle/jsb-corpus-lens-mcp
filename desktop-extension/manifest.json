@@ -1,0 +1,51 @@
+{
+    "manifest_version": "0.4",
+    "name": "corpus-lens",
+    "display_name": "Joseph Smith Corpus Lens",
+    "version": "1.0.0",
+    "description": "Search a dated corpus of Joseph Smith's revelations and accounts by meaning, and by doctrinal theme.",
+    "long_description": "Connects Claude to the Joseph the Prophet research corpus: about 3,000 source documents, searchable by meaning rather than keywords. Results are passages in chronological order, each with its source document and verse or paragraph — a reading list, never a claim. Searching is read-only. You need a personal access token from the project administrator.",
+    "author": {
+        "name": "Stephen W. Liddle",
+        "email": "liddle@byu.edu"
+    },
+    "server": {
+        "type": "node",
+        "entry_point": "server/index.js",
+        "mcp_config": {
+            "command": "node",
+            "args": ["${__dirname}/server/index.js"],
+            "env": {
+                "CORPUS_LENS_URL": "${user_config.server_url}",
+                "CORPUS_LENS_TOKEN": "${user_config.access_token}"
+            }
+        }
+    },
+    "tools": [
+        { "name": "corpus_search", "description": "Passages nearest in meaning to any wording, in chronological order." },
+        { "name": "theme_lens", "description": "Passages most likely to carry a named doctrinal theme." },
+        { "name": "list_themes", "description": "The theme names the lens knows." }
+    ],
+    "user_config": {
+        "access_token": {
+            "type": "string",
+            "title": "Access token",
+            "description": "Your personal access token, sent to you by the project administrator. Treat it like a password.",
+            "sensitive": true,
+            "required": true
+        },
+        "server_url": {
+            "type": "string",
+            "title": "Server address",
+            "description": "Leave this as it is unless the administrator tells you otherwise.",
+            "default": "https://blondie.byu.edu/corpus-lens",
+            "required": true
+        }
+    },
+    "compatibility": {
+        "platforms": ["darwin", "win32", "linux"],
+        "runtimes": { "node": ">=18.0.0" }
+    },
+    "keywords": ["joseph smith", "research", "corpus", "semantic search"],
+    "license": "UNLICENSED"
+}
